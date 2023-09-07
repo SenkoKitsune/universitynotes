@@ -12,4 +12,3 @@ Static analysis
 Dynamic checking:
 	Verification of correctness at runtime
 	Java supports dynamic verification because programs run on the Java Virtual Machine
-
