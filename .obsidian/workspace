@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "a3e50bece727c95a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fe68d971a3a6221",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "UBC First Year/APSC/APSC 100/Lectures/APSC 100 Week 8 Class A.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af6d84b66551f41e",
+    "type": "split",
+    "children": [
+      {
+        "id": "62ef4863de6a5e27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "655f7beed848f17e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4990762ab19eff23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f044d4cc4442b7e8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e8ff27a6ca3c6eaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4638ea497844db9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "685cc8f689791e90",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "UBC First Year/APSC/APSC 100/Lectures/APSC 100 Week 8 Class A.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee391130d8210202",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "UBC First Year/APSC/APSC 100/Lectures/APSC 100 Week 8 Class A.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11d43bdddac381e2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9d484028ee96f718",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "UBC First Year/APSC/APSC 100/Lectures/APSC 100 Week 8 Class A.md"
+              }
+            }
+          },
+          {
+            "id": "d6226e339f472296",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5fe68d971a3a6221",
+  "lastOpenFiles": [
+    "UBC First Year/PHYS/PHYS 157/PHYS 157 Lecture 16.md",
+    "UBC First Year/PHYS/PHYS 157/PHYS 157 Lecture 15.md",
+    "UBC First Year/PHYS/PHYS 157/PHYS 157 Lecture 17.md",
+    "UBC First Year/PHYS/PHYS 157/PHYS 157 Lecture 14.md",
+    "UBC First Year/APSC/APSC 100/Lectures/APSC 100 Week 8 Class A.md",
+    "UBC First Year/APSC/APSC 100/Screencasts/Week 8/APSC 100 Week 8 Video 1 Delivering Technical Presentations.md",
+    "Scrappad.md",
+    "Notepad.md",
+    "UBC First Year/PHYS/PHYS 157/PHYS 157 Lecture 13.md",
+    "UBC First Year/PHYS/PHYS 157/PHYS 157 Lecture 12.md"
+  ]
+}
