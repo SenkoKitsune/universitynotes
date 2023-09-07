@@ -55,7 +55,25 @@ Instantaneous power: $p(t) = v(t)i(t)$
 		$t > t_0$
 		$\displaystyle W = W(t_o, t) = \int){t_0}{t} P(τ)dt = \int{t_0}{t} v(τ)i(τ)$
 	
-Independent sources: An (ideal) independent source is an active element that provides a specified voltage or current that is independedt of other circuit elements and/or how the source is used in the circuit
+Independent sources: An (ideal) independent source is an active element that provides a specified voltage or current that is independent of other circuit elements and/or how the source is used in the circuit
 
 Current source: equivalent representation of ideal independent current sources whose current $i(t)$ is maintained under all voltage requirements of the attached circuit
 
+Ideal dependent (controlled) source is an active element whose voltage or current is controlled by a voltage or current of another circuit element.
+	Essential to mathematical models used to describe the behaviour of many electronic circuit elements
+
+Dependent sources are usually presented by diamond-shaped symbols
+
+Four types of dependent sources
+	1) Voltage-controlled voltage source (VCVS)
+		$V_s(t) = αV(t)$
+			where $V(t)$ is the voltage on another electronic component
+	2) Current-controlled current source (CCCS)
+		$V_s(t) = βI(t)$
+	3) Voltage-controlled current source (VCCS)
+		$I_s(t) = γV(t)$
+	4) Current-controlled current source (CCCS)
+		$I_s(t) = δI(t)$
+
+Resistance:
+	Different material allow charges to move within them with different le
