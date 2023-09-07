@@ -43,9 +43,19 @@ Passive sign conversion
 	For calculating absorbed power: the power absorbed by any circuit element with terminals A and B is equal to the voltage drop from A to B multiplied by the current through the element from A to be
 		$P = V_{ab}\times I_{ab}$
 
-With this convention, if $P \leq 0$
+With this convention, if $P \geq 0$, then the element is absorbing power
 
-Principle of conversvation of the power
-	The algebraic sum of the powers absorbed by all elements in a curcyit is zero at any instant of time
+Principle of conversion of the power
+	The algebraic sum of the powers absorbed by all elements in a circuit is zero at any instant of time
 		$\displaystyle \sum{P} = 0$
-		
+
+Energy
+Instantaneous power: $p(t) = v(t)i(t)$
+	Energy absorbed or supplied by an element can different from time $t_0$ from time $t_0$ from time to time
+		$t > t_0$
+		$\displaystyle W = W(t_o, t) = \int){t_0}{t} P(τ)dt = \int{t_0}{t} v(τ)i(τ)$
+	
+Independent sources: An (ideal) independent source is an active element that provides a specified voltage or current that is independedt of other circuit elements and/or how the source is used in the circuit
+
+Current source: equivalent representation of ideal independent current sources whose current $i(t)$ is maintained under all voltage requirements of the attached circuit
+
