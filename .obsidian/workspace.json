@@ -10,13 +10,15 @@
           {
             "id": "56ba93ca80be0a2e",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 2.md",
+                "file": "UBC Second Year/UBC Second Year/CPEN/CPEN 221/Lecture 1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -77,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 498.00793838500977
+    "width": 271.5
   },
   "right": {
     "id": "e8ff27a6ca3c6eaf",
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 2.md",
+                "file": "UBC Second Year/UBC Second Year/CPEN/CPEN 221/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 2.md",
+                "file": "UBC Second Year/UBC Second Year/CPEN/CPEN 221/Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 2.md"
+                "file": "UBC Second Year/UBC Second Year/CPEN/CPEN 221/Lecture 1.md"
               }
             }
           },
@@ -166,6 +168,10 @@
   },
   "active": "56ba93ca80be0a2e",
   "lastOpenFiles": [
+    "UBC Second Year/UBC Second Year/CPEN/CPEN 221/Lecture 1.md",
+    "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 2.md",
+    "UBC Second Year/UBC Second Year/CPEN/CPEN 221",
+    "UBC Second Year/UBC Second Year/CPEN",
     "Scrapad.md",
     "UBC Second Year/MATH/MATH 220/Lecture 1.md",
     "UBC Second Year/MATH/MATH 255/Lecture 1.md",
@@ -197,8 +203,6 @@
     "UBC First Year/WRDS 150B/Scrappad.md",
     "UBC First Year/PHYS/PHYS 170/PHYS 170 Lecture 31.md",
     "UBC First Year/MATH/MATH 152/MATH 152 Lecture 32.md",
-    "UBC First Year/PHYS/PHYS 170/PHYS 170 Lecture 34.md",
-    "UBC First Year/PHYS/PHYS 158/PHYS 158 Lecture 23.md",
     "Pasted image 20230328144308.png",
     "UBC First Year/MATH/MATH 101.zip",
     "Pasted image 20230327153240.png",

@@ -20,4 +20,10 @@ Similarly for vectors in $\mathbb{R}^3$, we will also use $\vec{i}, \vec{j}, \ve
 Vector + vector = vector
 Scalar + vector = vector
 
+Dot product of vectors
+| Geometric                  | Algebraic                           |
+| ----------------------- | ------------------- ---------|
+| $\vec{A}\cdot\vec{B} = \mid\vec{A}\mid\mid \vec{B} \mid \cos{θ}$ | $\vec{A} = <a_1,a_2,a_3>$              |
+|                                    | $\vec{B} = <b_1,b_2,b_3>$               |
+|                                    | $\vec{A}\cdot\vec{B} = a_1b_1 + a_2b_2+a_3b_3$ |
 
