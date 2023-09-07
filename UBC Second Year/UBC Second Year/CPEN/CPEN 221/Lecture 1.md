@@ -8,3 +8,8 @@ Static analysis
 	Is it correct
 	A compiler checks for some static analysis
 		Compiler may not be correct
+
+Dynamic checking:
+	Verification of correctness at runtime
+	Java supports dynamic verification because programs run on the Java Virtual Machine
+
