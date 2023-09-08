@@ -20,4 +20,4 @@ If a first order differential equation is of the from
 	Let $y = y(x) \to dy = y'(x)dx$
 	$\displaystyle\int\frac{1}{g(y)}dy=\int f(x)dx$
 
-Solving a separable equation is only as difficult as ssolving the integrals $\displaystyle \int\frac{1}{g(y)}dy$ and $\displaystyle\int f(x)dx$
+Solving a separable equation is only as difficult as solving the integrals $\displaystyle \int\frac{1}{g(y)}dy$ and $\displaystyle\int f(x)dx$
