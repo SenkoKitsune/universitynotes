@@ -3,6 +3,6 @@
   "cssTheme": "Minimal",
   "accentColor": "#ffa500",
   "showViewHeader": true,
-  "translucency": true,
+  "translucency": false,
   "nativeMenus": false
 }

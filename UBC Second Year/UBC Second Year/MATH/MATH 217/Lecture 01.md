@@ -19,4 +19,4 @@ Vector-valued functions of multiple values
 		$\vec{F}(x,y)$
 			to each point in $\mathbb{R}^2$, we get an arrow
 
-[[Lecture 2]]
+[[Lecture 02]]

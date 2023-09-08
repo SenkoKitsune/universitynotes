@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/CPEN/CPEN 221/Lecture 1.md",
+                "file": "UBC Second Year/UBC Second Year/CPEN/CPEN 221/Lecture 01.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -25,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/ENPH/ENPH 259/Lecture 1.md",
+                "file": "UBC Second Year/UBC Second Year/CPEN/CPEN 221/Lecture 01.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/ENPH/ENPH 259/Lecture 1.md",
+                "file": "UBC Second Year/UBC Second Year/CPEN/CPEN 221/Lecture 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/ENPH/ENPH 259/Lecture 1.md",
+                "file": "UBC Second Year/UBC Second Year/CPEN/CPEN 221/Lecture 01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/ENPH/ENPH 259/Lecture 1.md"
+                "file": "UBC Second Year/UBC Second Year/CPEN/CPEN 221/Lecture 01.md"
               }
             }
           },
@@ -180,13 +181,16 @@
   },
   "active": "c94afe18f2208c4e",
   "lastOpenFiles": [
-    "UBC Second Year/UBC Second Year/CPEN/CPEN 221/Lecture 1.md",
-    "UBC Second Year/UBC Second Year/ENPH/ENPH 259/Lecture 1.md",
+    "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 02.md",
+    "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture 01.md",
+    "UBC Second Year/UBC Second Year/ENPH/ENPH 259/Lecture 01.md",
+    "UBC Second Year/UBC Second Year/ELEC/ELEC 204",
+    "UBC Second Year/UBC Second Year/ELEC",
+    "UBC Second Year/UBC Second Year/CPEN/CPEN 221/Lecture 01.md",
     "UBC Second Year/UBC Second Year/ENPH/ENPJ 259.md",
     "UBC Second Year/UBC Second Year/ENPH/ENPH 259",
     "UBC Second Year/UBC Second Year/ENPH",
-    "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 2.md",
-    "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 1.md",
+    "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 01.md",
     "UBC Second Year/UBC Second Year/CPEN/CPEN 221",
     "UBC Second Year/UBC Second Year/CPEN",
     "Scrapad.md",
@@ -198,8 +202,6 @@
     "UBC Second Year/MATH/MATH 220/Untitled",
     "Notepad.md",
     "UBC Second Year/MATH/MATH 220/Lectures",
-    "UBC Second Year/MATH/MATH 220",
-    "UBC Second Year/MATH",
     "UBC First Year/MATH/MATH 152/MATH 152 Lecture 21.md",
     "UBC First Year/MATH/MATH 152/MATH 152 Lecture 26.md",
     "UBC First Year/MATH/MATH 152/MATH 152 Lecture 29.md",
@@ -215,7 +217,6 @@
     "UBC First Year/MATH/MATH 152/MATH 152 Lecture 23.md",
     "UBC First Year/MATH/MATH 152/MATH 152 Lecture 18.md",
     "UBC First Year/MATH/MATH 152/MATH 152 Lecture 15.md",
-    "UBC First Year/PHYS/PHYS 170/PHYS 170 Lecture 30.md",
     "Pasted image 20230328144308.png",
     "Pasted image 20230327153240.png",
     "Pasted image 20230327120626.png",
