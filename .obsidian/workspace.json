@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture 01.md",
+                "file": "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 02.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture 01.md",
+                "file": "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture 01.md",
+                "file": "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture 01.md"
+                "file": "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 02.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "c94afe18f2208c4e",
   "lastOpenFiles": [
-    "UBC Second Year/UBC Second Year/CPEN/CPEN 221/Lecture 01.md",
     "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture 01.md",
+    "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 02.md",
+    "UBC Second Year/UBC Second Year/CPEN/CPEN 221/Lecture 01.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 02.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 01.md",
     "UBC Second Year/UBC Second Year/ENPH/ENPH 259/Lecture 01.md",
@@ -202,7 +203,6 @@
     "UBC First Year/MATH/MATH 152/MATH 152 Lecture 24.md",
     "UBC First Year/MATH/MATH 152/MATH 152 Lecture 23.md",
     "UBC First Year/MATH/MATH 152/MATH 152 Lecture 18.md",
-    "UBC First Year/MATH/MATH 152/MATH 152 Lecture 15.md",
     "Pasted image 20230328144308.png",
     "Pasted image 20230327153240.png",
     "Pasted image 20230327120626.png",
