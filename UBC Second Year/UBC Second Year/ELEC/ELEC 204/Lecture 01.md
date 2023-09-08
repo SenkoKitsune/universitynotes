@@ -98,3 +98,16 @@ Fixed resistors have a resistance that remains constants
 		1) Wire-wound
 		2) Composition (carbon film type)
 
+Variable resistors have adjustable resistance and are typically called potentiometers
+	Potentiometers have three terminals, one of which is a sliding contact or wiper
+
+Conductance
+	$\displaystyle G = \frac{1}{R}$ is called the conductance of the element and is measured in siemens $(S)$ or mho $(\mho)$
+	Conductance is the ability of an element to conduct current
+	A device with zero (no) resistance has infinite conductance and a device with infinite resistance has zero conductance
+
+Current sources: resistance in parallel with the current source
+Voltage sources: resistance in series with the current source
+
+A device with zero resistance is called short-circuit and a device with zero conductance (infinite resistance) is called open-circuit
+
