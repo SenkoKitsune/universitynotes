@@ -76,4 +76,25 @@ Four types of dependent sources
 		$I_s(t) = δI(t)$
 
 Resistance:
-	Different material allow charges to move within them with different le
+	Different material allow charges to move within them with different levels of ease
+		This physical property or ability to resist current is known as resistance
+	The resistance of any material with a uniform cross-sectional area $A$ and length $l$ is inversely proportional to $A$ and directly proportional to $l$
+		$\displaystyle R \propto \frac{1}{A}$
+	The constant of proportionality is the resistivity of the material: ρ
+		$\displaystyle R = ρ\frac{l}{A}$
+
+The voltage $v$ across a resistor is directly proportional to the current $i$ flowing through the resistor.
+	The proportionality constant is the resistance of the resistor
+		$v(t) = Ri(t)$
+$\displaystyle i(t) = \frac{1}{R}v(t) \to i(t) = Gv(t)$
+
+Instantaneous power dissipated in a resistor
+	$\displaystyle p(t) = v(t) i(t) = \frac{v^2(t)}{R} = Ri^2(t)$
+
+$\displaystyle \frac{1}{R}$ is known as conductance
+
+Fixed resistors have a resistance that remains constants
+	Two common types of fixed resistors are:
+		1) Wire-wound
+		2) Composition (carbon film type)
+
