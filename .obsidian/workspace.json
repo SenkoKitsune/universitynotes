@@ -112,7 +112,7 @@
               "type": "outgoing-link",
               "state": {
                 "file": "UBC Second Year/UBC Second Year/MATH/MATH 220/Lecture 03.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -147,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -165,7 +165,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c94afe18f2208c4e",
+  "active": "ee391130d8210202",
   "lastOpenFiles": [
     "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 02.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 220/Lecture 03.md",

@@ -16,9 +16,10 @@ Given 2 statements, P and Q, we denote by $P \implies Q$, the implication of P a
 	$P \implies Q$ is always true if P is false. 
 		The reason is that one can deduce anything (true or false) starting from a false premise.
 
-| P   | Q   | $\sim P$ | $P \land Q$ | $P \lor Q$ | $P \implies Q$ |
-| --- | --- | -------- | ----------- | ---------- | -------------- |
-| T   | T   | F        | T           | T          | T              |
-| T   | F   | F        | F           | T          | F              |
-| F   | T   | T        | F           | T          | T              |
-| F   | F   | T        | F           | F          | T               |
+|  P  |  Q  | $\sim P$ | $P \land Q$ | $P \lor Q$ | $P \implies Q$ |
+|:---:|:---:|:--------:|:-----------:|:----------:|:--------------:|
+|  T  |  T  |    F     |      T      |     T      |       T        |
+|  T  |  F  |    F     |      F      |     T      |       F        |
+|  F  |  T  |    T     |      F      |     T      |       T        |
+|  F  |  F  |    T     |      F      |     F      |       T        |
+
