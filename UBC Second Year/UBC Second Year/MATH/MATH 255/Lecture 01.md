@@ -21,3 +21,4 @@ In general we can solve many linear equations analytically and not that many non
 An equation (or system) is called *autonomous* if the equation does not depend on the independent variable, otherwise it is called *non-autonomous*. A first order autonomous differential equation has the form:
 	$\displaystyle \frac{dx}{dt} = f(x)$
 
+[[UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 02|Lecture 02]]

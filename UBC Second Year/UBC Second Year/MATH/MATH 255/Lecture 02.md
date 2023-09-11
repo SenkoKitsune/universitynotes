@@ -21,3 +21,5 @@ If a first order differential equation is of the from
 	$\displaystyle\int\frac{1}{g(y)}dy=\int f(x)dx$
 
 Solving a separable equation is only as difficult as solving the integrals $\displaystyle \int\frac{1}{g(y)}dy$ and $\displaystyle\int f(x)dx$
+
+[[UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 03|Lecture 03]]

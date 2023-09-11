@@ -47,3 +47,4 @@ $\mathbb{R}$ = real numbers
 $\mathbb{I}$ = irrational numbers
 
 
+[[UBC Second Year/UBC Second Year/MATH/MATH 220/Lecture 02|Lecture 02]]
