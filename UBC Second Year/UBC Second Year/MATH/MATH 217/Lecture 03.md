@@ -36,9 +36,14 @@ Lines:
 		Point: $(x_0,y_0,z_0)$
 		$\vec{V} = <a,b,c>$
 			$\vec{r}(t) = \vec{r_0}+t\vec{v}$
-			$=
+			$=<x_0,y_0,z_0> + t<a,b,c>$
+			$= <x_0+ta, y_0+tb, z_0+tc>$
 				$\vec{r}(t)$ is a parametric equation of the line (not unique)
 					Component form:
 						$x(t) = x_0+ta$
 						$y(t) = y_0+tb$
 						$z(t) = z_0 + tc$
+
+Planes:
+	A plane in $\mathbb{R}^3$ is determined by a point $(x_0,y_0,z_0)$ on it and a normal vector $\vec{N} = <a,b,c>$
+	
