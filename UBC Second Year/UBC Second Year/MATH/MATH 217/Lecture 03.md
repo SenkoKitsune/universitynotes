@@ -26,4 +26,19 @@ If scalar $\vec{A}\cdot(\vec{B}\times\vec{C})$ is the $\pm$ volume of the parall
 One way to think of dot projects is in terms of projections
 	The distance is the scalar projection of $\vec{B}$ in the direction of $\vec{A}$, aka the component of $\vec{B}$ in the direction of $\vec{A}$
 		$\displaystyle comp_{\vec{A}}\vec{B}=\cos{θ}|\vec{B}| = \frac{|vec{A}\cdot\vec{B}}{|\vec{A}|}$
-		
+	Vector projection of $\vec{A}$ in the direction of $\vec{B}$
+		$\displaystyle proj_{\vec{B}}\vec{A} = \left (\frac{\vec{A}\cdot\vec{B}}{|\vec{B}|} \right)\frac{\vec{B}}{|\vec{B}|} = \frac{\vec{A}\cdot\vec{B}}{\vec{B}\cdot\vec{B}}\vec{B}$
+
+Equations of lines and planes in $\mathbb{R}^3$
+
+Lines:
+	Can be given by a point the line passes through and a direction
+		Point: $(x_0,y_0,z_0)$
+		$\vec{V} = <a,b,c>$
+			$\vec{r}(t) = \vec{r_0}+t\vec{v}$
+			$=
+				$\vec{r}(t)$ is a parametric equation of the line (not unique)
+					Component form:
+						$x(t) = x_0+ta$
+						$y(t) = y_0+tb$
+						$z(t) = z_0 + tc$
