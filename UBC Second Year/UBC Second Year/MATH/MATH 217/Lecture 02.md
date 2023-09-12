@@ -27,3 +27,4 @@ Dot product of vectors
 |                                    | $\vec{B} = <b_1,b_2,b_3>$               |
 |                                    | $\vec{A}\cdot\vec{B} = a_1b_1 + a_2b_2+a_3b_3$ |
 
+[[UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 03|Lecture 03]]
