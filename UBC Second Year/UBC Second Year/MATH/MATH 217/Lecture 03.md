@@ -46,4 +46,11 @@ Lines:
 
 Planes:
 	A plane in $\mathbb{R}^3$ is determined by a point $(x_0,y_0,z_0)$ on it and a normal vector $\vec{N} = <a,b,c>$
-	
+		A point $(x,y,z)$ lies in $P$
+			1) $\vec{B} \perp <x-x_0, y-y_0, z-z_0>$
+			2) $0 = \vec{N}\cdot<x-x_0, y-y_0, z-z_0>$
+			3) 0 = $a(x-x_0)+b(y-y_0)+c(z-z_0)$
+				Can rewrite as
+					$ax+by+c_z = d$
+						$d = ax_0+by_0+cz_0$
+
