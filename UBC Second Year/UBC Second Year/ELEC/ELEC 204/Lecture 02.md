@@ -20,3 +20,6 @@ Kirchhoff's Current Law
 	Alternate statement of KCL:
 		For lumped circuits, the algebraic sum of the currents leaving a node (or a closed boundary) is zero
 
+A closed boundary is a closed curve (or surface), such as a circle in a plane (or a sphere in three-dimensional space) that has well-defined inside and outside boundaries
+	This closed boundary is sometimes called a supernode or a Gauss surfacce
+
