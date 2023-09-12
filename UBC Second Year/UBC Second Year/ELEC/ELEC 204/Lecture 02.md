@@ -12,3 +12,11 @@ Terms for describing circuits
 | Planar circuit   | A circuit that can be drawn on a plane with no crossing branches                    |
 
 Two nodes connected only by a wire with no additional circuit components are considered only one node
+
+Kirchhoff's Current Law
+	The algebraic sum of the currents entering a node (or a closed boundary) is 0
+	The current entering a node may be regarded as positive while the currents leaving the node may be taken as negative
+	KCL is based on the law of conservation of change
+	Alternate statement of KCL:
+		For lumped circuits, the algebraic sum of the currents leaving a node (or a closed boundary) is zero
+
