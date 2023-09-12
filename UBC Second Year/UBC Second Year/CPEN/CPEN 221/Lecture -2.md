@@ -20,3 +20,6 @@ Javadoc Specifications
 	Postconditions @return
 	Frame conditions (include in @param)
 We can also add our own tags to Javadoc
+
+Specifications constrain the domain and range of a method
+
