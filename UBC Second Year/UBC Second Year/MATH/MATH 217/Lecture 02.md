@@ -21,10 +21,19 @@ Vector + vector = vector
 Scalar + vector = vector
 
 Dot product of vectors
-| Geometric                  | Algebraic                           |
-| ----------------------- | ------------------- ---------|
-| $\vec{A}\cdot\vec{B} = \mid\vec{A}\mid\mid \vec{B} \mid \cos{θ}$ | $\vec{A} = <a_1,a_2,a_3>$              |
-|                                    | $\vec{B} = <b_1,b_2,b_3>$               |
-|                                    | $\vec{A}\cdot\vec{B} = a_1b_1 + a_2b_2+a_3b_3$ |
+| Geometric                                                        | Algebraic                                      |
+| ---------------------------------------------------------------- | ---------------------------------------------- |
+| $\vec{A}\cdot\vec{B} = \mid\vec{A}\mid\mid \vec{B} \mid \cos{θ}$ | $\vec{A} = <a_1,a_2,a_3>$                      |
+|                                                                  | $\vec{B} = <b_1,b_2,b_3>$                      |
+|                                                                  | $\vec{A}\cdot\vec{B} = a_1b_1 + a_2b_2+a_3b_3$ |
+| 
+
+| Geometric:                                                       | Algebraic                                  |
+| ---------------------------------------------------------------- | ------------------------------------------ |
+| $\vec{A}\cdot\vec{B} = \mid\vec{A}\mid\mid \vec{B} \mid \cos{θ}$ | $\vec{A} = <a_1,a_2,a_3>$                  |
+| $\vec{A}\cdot\vec{B} = 0 \to \vec{A} \perp \vec{B}$              | $\vec{B} = <b_1,b_2,b_3>$                  |
+| $\vec{A}\cdot\vec{A} = \mid\vec{A}\mid^2$                         | $\vec{A}\cdot\vec{B} = a_1b_1+a_2b_2+a_3b_3$ |
+                                                                 |                                            |
+
 
 [[UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 03|Lecture 03]]
