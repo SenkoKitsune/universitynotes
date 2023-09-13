@@ -12,4 +12,11 @@ Other parameterizations:
 The helix
 	$\vec{r}(t) = <\cos t, \sin t, t>$
 	$0\leq t \leq 4π$
-	
+
+
+Derivatives of vector-valued functions $\vec{r}(t)$
+	$\displaystyle \vec{r}(t) =\frac{d\vec{r}}{dt}=\vec{r}'(t)$
+	$\displaystyle = \lim_{n\to 0}\frac{\vec{r}(t+h)-\vec{r}(t)}{h}$
+	$\vec{r}(t) = <x_0,y_0,z_0>$
+	$\vec{r}'(t) = <x'(t),y'(t),z'(t)>$
+
