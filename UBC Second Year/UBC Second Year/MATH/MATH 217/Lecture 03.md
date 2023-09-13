@@ -54,3 +54,4 @@ Planes:
 					$ax+by+c_z = d$
 						$d = ax_0+by_0+cz_0$
 
+[[UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 04|Lecture 04]]
