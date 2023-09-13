@@ -36,7 +36,7 @@ Series and parallel connections
 	Two or more elements are connected in series when they are connected end to end with only one common node between the two consecutive elements, and the elements all carry the same current
 
 The equivalent resistance of any number of resistors connected in series is the sum of the resistors
-	$R_{eq} = R_1 + R_2 + ... + R_n$
+	$R_{eq} = R_1 + R_2 + ... + R_n$ or $\displaystyle \frac{1}{G_{eq}} = \frac{1}{G_1}+\frac{1}{G_2}+...+\frac{1}{G_n}$
 
 Voltage Division
 	In a series combination of n resistors, the voltage drop across the resistor $R_j$ for $j = 1,2,...,n$ is
@@ -45,4 +45,10 @@ Voltage Division
 Two or more circuit elements are in parallel if they are connected between the two same nodes
 	parallel elements have the same voltage
 
-The equivale
+The equivalent resistance of any number of resistors connected in parallel is the sum of their individual conductance
+	$G_{eq} = G_1 + G_2 + ... + G_n$ or $\displaystyle \frac{1}{R_{eq}} = \frac{1}{R_1}+\frac{1}{R_2}+... + \frac{1}{R_n}$
+
+Current Division
+	In a parallel combination of n resistors, the current through the resistor $R_j$ for $j = 1,2,...,n$ is
+		$\displaystyle i_j(t) = \frac{G_j}{G_1+G_2+...+G_n}i_{in}(t)$
+
