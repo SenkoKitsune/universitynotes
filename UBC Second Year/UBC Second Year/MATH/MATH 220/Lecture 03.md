@@ -23,3 +23,4 @@ Given 2 statements, P and Q, we denote by $P \implies Q$, the implication of P a
 |  F  |  T  |    T     |      F      |     T      |       T        |
 |  F  |  F  |    T     |      F      |     F      |       T        |
 
+[[Lecture 04]]
