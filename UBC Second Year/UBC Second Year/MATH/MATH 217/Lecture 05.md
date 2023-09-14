@@ -17,4 +17,12 @@ Suppose $\vec{r}(t)$ has constant magnitude $|\vec{r}(t)| = C$
 
  Arc length of a curve
 	Arclength $\approx$ $\displaystyle \sum_{i=0}^{N-1}|\vec{r}(t_i+Δt) - \vec{r}(t_i)|$
-	Arclength = $\displaystyle \lim_{N\to\t}
+	Arclength = $\displaystyle \lim_{N\to\infty}\sum_{i=0}^{N-1}\frac{|\vec{r}(t_i+Δt|-\vec{r}(t_i)|Δt}{Δt}$
+		$\displaystyle\lim_{N\to\infty}\sum_{i=0}^{N-1}\left| \frac{d\vec{r}}{dt}(t_i) \right| Δt$
+		$\displaystyle L =\int_{t=t_{start}}^{t_{end}}\left| \vec{r}\prime(t)\right|dt$
+			We need $\vec{r}(t)$ to traverse the curve once (*no backtracking*)
+
+$\vec{r}(t)$ = position
+$\displaystyle\frac{d\vec{r}}{dt}$ = velocity
+$\displaystyle \left|\frac{\vec{r}}{dt}\right|$ = speed
+	Distance travelled is integral of speed
