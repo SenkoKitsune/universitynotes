@@ -15,8 +15,8 @@ The helix
 
 
 Derivatives of vector-valued functions $\vec{r}(t)$
-	$\displaystyle \vec{r}(t) =\frac{d\vec{r}}{dt}=\vec{r}'(t)$
+	$\displaystyle \vec{r}(t) =\frac{d\vec{r}}{dt}=\vec{r}\prime(t)$
 	$\displaystyle = \lim_{n\to 0}\frac{\vec{r}(t+h)-\vec{r}(t)}{h}$
 	$\vec{r}(t) = <x(t),y(t),z(t)>$
-	$\vec{r}'(t) = <x'(t),y'(t),z'(t)>$
+	$\vec{r}\prime(t) = <x\prime(t),y\prime(t),z\prime(t)>$
 
