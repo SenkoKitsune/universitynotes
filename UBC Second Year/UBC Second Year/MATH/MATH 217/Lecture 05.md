@@ -26,3 +26,7 @@ $\vec{r}(t)$ = position
 $\displaystyle\frac{d\vec{r}}{dt}$ = velocity
 $\displaystyle \left|\frac{\vec{r}}{dt}\right|$ = speed
 	Distance travelled is integral of speed
+
+Linear equations in $\mathbb{R}^3 \to$ planes
+Quadratic equations (involving $x^2, xy,y^2,z^2,x,y,z$) $\to$ 
+	Quadratic equations in $\mathbb{R}^2$ ($x,y,x^2,y^2,xy$) $\to$ parabolas, ellipses, circles, hyperbolas
