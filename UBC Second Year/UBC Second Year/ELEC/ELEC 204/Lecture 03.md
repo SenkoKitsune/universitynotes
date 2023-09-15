@@ -9,3 +9,27 @@ Wye-Delta
 	$\displaystyle R_2 = \frac{R_AR_C}{R_A+R_B+R_C}$
 	$\displaystyle R_3 = \frac{R_AR_C}{R_A+R_B+R_C}$
 
+Two popular and powerful techniques for analysing circuits are:
+	Nodal analysis: a general procedure to find all the node voltages in a circuit
+		Based on KCL and Ohm's Law
+	Mesh analysis: another general procedure to find mesh currents which circulate around closed paths in the circuit
+		Based on KVL and Ohm's Law
+
+Modified Nodal Analysis (MNA)
+	Not as popular as the first two, more powerful
+
+Reference node or ground
+	A node that is assumed to have a zero potential
+		If the reference node is not explicitly indicated on the circuit one can arbitrarily choose any node as the ground
+
+Node voltage
+	The voltage difference/drop from a give node to the reference node
+
+Regular modal analysis:
+	Steps to determine the node voltages for a circuit with no floating voltage source:
+		1) Select a reference node: A floating voltage source is a voltage source that neither of its terminals is connected to the reference node
+			None of the terminals are grounded
+		2) Assign voltages to other nodes. these node voltages are referenced to the reference node
+		3) Write KCL for all unknown non-reference nodes. When possible, use Ohm's law to relate the branch currents to node voltages
+		4) Solve the resulting system of equations for unknown node voltages
+
