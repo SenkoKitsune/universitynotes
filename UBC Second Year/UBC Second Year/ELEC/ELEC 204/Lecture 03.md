@@ -29,7 +29,11 @@ Regular modal analysis:
 	Steps to determine the node voltages for a circuit with no floating voltage source:
 		1) Select a reference node: A floating voltage source is a voltage source that neither of its terminals is connected to the reference node
 			None of the terminals are grounded
-		2) Assign voltages to other nodes. these node voltages are referenced to the reference node
-		3) Write KCL for all unknown non-reference nodes. When possible, use Ohm's law to relate the branch currents to node voltages
-		4) Solve the resulting system of equations for unknown node voltages
+			Pick the node with most connections as reference node
+		1) Assign voltages to other nodes. these node voltages are referenced to the reference node
+		2) Write KCL for all unknown non-reference nodes. When possible, use Ohm's law to relate the branch currents to node voltages
+		3) Solve the resulting system of equations for unknown node voltages
+
+Floating Voltage sources
+	Form a super-node which is formed by enclosing the floating voltage source (independent or dependent) and any elements in parallel with it in a closed boundary
 
