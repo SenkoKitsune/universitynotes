@@ -22,9 +22,17 @@ A differential equation of the form
 			$\displaystyle\frac{\delta^2φ(x,y)}{\delta x \delta y}=\frac{\delta^2φ(x,y)}{\delta y \delta x}$
 				$M_y = φ_{xy} = φ_{yx} = N_x$
 
-To solve an exact eqatuion, integrate one of 
+To solve an exact equation, integrate one of 
 	$\phi_x(x,y) = M(x,y)$ or $\phi_y(x,y) = N(x,y)$ and use the other equation to solve the unknown function
 		Integrate $φ_x = M(x,y)$
-			$φ = \int M(x,y)dx + h(y)$
+			$\displaystyle φ = \int M(x,y)dx + h(y)$
 				$M(x,y) = Q(x,y)$ and $h(y)$ = unknown function of y
-		Differentiate and use $φ_y = N$ 
+		Differentiate and use $φ_y = N$ to solve for $h(y)$
+			$φ_y = Q_y+h\prime(y)=N(x,y)$
+			$h\prime(y) + N(x,y) - Q_y$ (independent of x)
+			$\displaystyle h(y) = \int N(x,y)-Q_ydy$
+		So our function $\displaystyle φ(x,y) = \int M(xy)dx+h(y)$
+			And our solution is $φ(x,y) = C$
+				$\displaystyle \left[ \frac{d}{dx}φ=\frac{\delta φ}{\delta x}+\frac{\delta φ}{\delta x} = 0 \right]$
+
+To check if an equation is exact, check if $M_y = N_x$
