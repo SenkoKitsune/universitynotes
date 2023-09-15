@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture 02.md",
+                "file": "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture/Lecture 02.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 05.md",
+                "file": "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Tutorial/Tutorial 01.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 05.md",
+                "file": "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Tutorial/Tutorial 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 05.md",
+                "file": "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Tutorial/Tutorial 01.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 05.md"
+                "file": "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Tutorial/Tutorial 01.md"
               }
             }
           },
@@ -191,13 +191,16 @@
   },
   "active": "87bb55c45a3fa2a9",
   "lastOpenFiles": [
-    "UBC Second Year/UBC Second Year/MATH/MATH 220/Lecture 05.md",
+    "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture/Lecture 01.md",
+    "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Tutorial/Tutorial 01.md",
+    "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Tutorial",
     "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 05.md",
+    "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture",
+    "UBC Second Year/UBC Second Year/MATH/MATH 220/Lecture 05.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 220/Lecture 03.md",
-    "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture 03.md",
+    "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture/Lecture 03.md",
     "UBC Second Year/UBC Second Year/ENPH/ENPH 259/Lecture 02.md",
-    "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture 01.md",
-    "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture 02.md",
+    "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture/Lecture 02.md",
     "UBC Second Year/UBC Second Year/CPEN/CPEN 221/Lecture 03.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 05.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 220/Lecture 04.md",
@@ -222,11 +225,8 @@
     "UBC Second Year/UBC Second Year/ENPH",
     "UBC Second Year/UBC Second Year/CPEN/CPEN 221",
     "UBC Second Year/UBC Second Year/CPEN",
-    "Scrapad.md",
     "UBC Second Year/MATH/MATH 255",
     "UBC Second Year/MATH/MATH 217",
-    "UBC Second Year/MATH/MATH 220/Untitled",
-    "UBC Second Year/MATH/MATH 220/Lectures",
     "Pasted image 20230328144308.png",
     "Pasted image 20230327153240.png",
     "Pasted image 20230327120626.png",
