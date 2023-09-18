@@ -1,6 +1,8 @@
 {
   "baseFontSize": 16,
   "cssTheme": "Minimal",
-  "accentColor": "",
-  "showViewHeader": true
+  "accentColor": "#ffa500",
+  "showViewHeader": true,
+  "translucency": false,
+  "nativeMenus": false
 }

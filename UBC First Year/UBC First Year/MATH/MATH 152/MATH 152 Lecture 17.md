@@ -24,4 +24,4 @@ $T: R^m \to R^n$ is a linear transformation
 
 A linear transformation is a transformation that commutes with linear combination
 
-[[PHYS 170 Lecture 18]]
+[[MATH 152 Lecture 18]]
