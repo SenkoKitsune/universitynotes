@@ -11,3 +11,10 @@ The converse of a statement is not logically equivalent to the original statemen
 	It can happen that a statement and its converse are both true
 		In general, there is no connection between one and the other
 
+| $P$ | $Q$ | $P \implies Q$ | $Q\implies P$ | $(\sim Q)\implies (\sim P)$ |
+|:---:|:---:|:--------------:|:-------------:|:---------------------------:|
+|  T  |  T  |       T        |       T       |              T              |
+|  T  |  F  |       F        |       T       |              F              |
+|  F  |  T  |       T        |       F       |              T              |
+|  F  |  F  |       T        |       T       |              T              |
+
