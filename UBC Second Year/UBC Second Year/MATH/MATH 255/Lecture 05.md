@@ -11,7 +11,7 @@ The following equation is not separable and not linear
 
 A differential equation of the form
 	$M(x,y) + N(x,y)\frac{dy}{dx} = 0$
-	is called exact if tthere is a function $\phi(x,y)$ such that $M(x,y)=\phi_x$ and $N(x,y)=\phi_y$. In this case the function $\phi(x,y)$ is called a potential. For exact equations, the solution is given by
+	is called exact if there is a function $\phi(x,y)$ such that $M(x,y)=\phi_x$ and $N(x,y)=\phi_y$. In this case the function $\phi(x,y)$ is called a potential. For exact equations, the solution is given by
 		$\phi(x,y) = C$
 	A differential equation of the form
 		$\displaystyle M(x,y) + N(x,y)\frac{dy}{dx}=0$
