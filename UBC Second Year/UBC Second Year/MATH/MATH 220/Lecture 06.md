@@ -9,11 +9,11 @@ Two statements $P$ and $Q$ are equivalent if $P \Leftrightarrow Q$ is a tautolog
 	$P \equiv Q$ if and only if they are both true or false
 	$P \equiv Q$ if and only if they have the same truth table
 
-| Double Negation  | $sim(\sim P) \equiv P$                                         |
+| Double Negation  | $\sim(\sim P) \equiv P$                                         |
 | ---------------- | -------------------------------------------------------------- |
 | Implication      | $(P\implies Q)\equiv (\sim P) \lor Q$                          |
-| Biconditional    | $(P \Leftrightarrow Q \equiv (P\implies Q) \land (Q\implies P$ |
+| Biconditional    | $(P \Leftrightarrow Q \equiv (P\implies Q) \land (Q\implies P)$ |
 | De Morgan's Laws | $\sim(P\lor Q)\equiv(\sim P)\land (\sim Q)$                    |
 |                  | $\sim(P\land Q)\equiv (\sim P)\lor (\sim Q)$                   |
-| Exclusive Or     | $(P$ XOR $Q) \equiv (P\land\sim Q) \lor (\sim P \land Q)$                      |
+| Exclusive Or     | $(P \textrm{ XOR } Q) \equiv (P\land\sim Q) \lor (\sim P \land Q)$                      |
 
