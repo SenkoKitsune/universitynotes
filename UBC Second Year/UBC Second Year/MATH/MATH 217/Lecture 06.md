@@ -16,3 +16,6 @@ Consider a function $f(x,y)$, we can treat $x$ as a variable and $y$ as a consta
 If $z = f(x,y)$
 	$\displaystyle \frac{\partial z}{\partial x} = \frac{\partial f}{\partial x} = f_x$
 
+Mixed partials commute
+	$f_{xy} = f_{yx}$
+
