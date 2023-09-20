@@ -28,4 +28,8 @@ Sometimes we are given a relation:
 	$x^2 + y^2 + z^2 = 1$
 	Use this equation to implicitly define $z$ as a function of $x$ and $y$
 	$z = z(x,y)$
-	
+	Find $\displaystyle \frac{\partial z}{\partial x}$
+		$\displaystyle \frac{\partial}{\partial x} \left(x^2 + y^2 + z^2 \right) = \frac{\partial}{\partial x}(1)$
+		$\displaystyle 2x + 0 + 2z\frac{\partial z}{\partial x} = 0$
+		$\displaystyle \frac{\partial z}{\partial x} = -\frac{x}{z}$
+
