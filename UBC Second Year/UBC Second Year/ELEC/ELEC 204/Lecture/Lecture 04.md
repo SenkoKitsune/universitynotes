@@ -53,3 +53,10 @@ Linearity Theorem
 Proportionality Property
 	In a linear circuit, when only one independent source is acting (alone), the output is proportional to that input (refer to linearity theorem). Since the system is linear, if the input is multiplied by a constant, then the output is multiplied by the same constant
 
+Superposition
+	In a linear circuit containing more than one independent source, the voltage across or current through any element is the algebraic sum of the voltages across or currents through that element due to each independent source acting alone with the remaining independent sources deactivated
+	Steps for applying superposition principle
+		1) Turn off all independent sources except one source. Find the desired voltage or current due to that source
+		2) Repeat for each of the independent sources
+		3) Find the total desired voltage or current by algebraically adding the contributions due to each of the independent sources
+
