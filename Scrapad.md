@@ -27,3 +27,4 @@ Area above the x-axis - area below the x-axis = total area of integral
 [[Notepad]]
 
 
+$\sim T \implies \sim((Q\implies R) \implies P)$
