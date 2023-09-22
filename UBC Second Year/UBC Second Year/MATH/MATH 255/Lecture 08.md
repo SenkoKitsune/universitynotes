@@ -47,8 +47,14 @@ Existence and uniqueness
 		*We need two initial conditions to determine a particular solution to a second order ODE*
 
 General solutions
-		Let $p,q,f$ be continuous functions. If $y_1(x)$ and $y_2(x) are two linearly independent solutions of the homogenous eqatuion
+		Let $p,q,f$ be continuous functions. If $y_1(x)$ and $y_2(x)$ are two linearly independent solutions of the homogenous equation
 			 $y\prime\prime + p(x)y\prime + q(x)y = 0$
 		Then the general solution is
 			$y(x) = c_1y_1(x) + c_2y_2(x)
-		In otehr words, every solution will have the form $y(x) = c_1y_1(x) + c_2y_2(x)$
+		In other words, every solution will have the form $y(x) = c_1y_1(x) + c_2y_2(x)$
+
+Reduction of order
+	If we know one solution, $y_1(x)$ to the homogenous DE
+		 $y\prime\prime + p(x)y\prime + q(x)y = 0$
+		Then we can find a second solution of the form $y_2(x)=y_1(x)v(x)$ by plugging in $y_2(x)$ into the differential equation and solving for $v(x)$
+
