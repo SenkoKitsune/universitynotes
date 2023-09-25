@@ -1,0 +1,30 @@
+Suppose we have the differential equation:
+$ay\prime\prime + by\prime + cy = 0$,
+where $a,b,c$ are constants and $a \neq 0$. Try the solution $y = e^{rx}$ to obtain
+	$ar^2e^{rx} + bre^{rx} + ce^{rx} = 0$
+and divide through by $e^{rx}$ to obtain the characteristic equation
+	$ar^2+br_c = 0$
+which has roots
+	$\displaystyle r_1,r_2 = \frac{-b \pm \sqrt{b^2-4ac}}{2a}$
+	1) If $b^2-4ac > 0$:
+		Real
+
+
+
+Complex:
+$\mathbb{C} = \left\{a+bi\mid a_0b \in\mathbb{R}\right\}$
+	$i = \sqrt{-1} \to i^2 = -1$
+
+Euler's formula 
+	$e^{it} = \cos(t)+i\sin(t)$
+	Taylor series : $\displaystyle f(t) = f(0) + f\prime(0)t+f\prime\prime(0)\frac{t^2}{2!} + f\prime\prime\prime(0)\frac{t^3}{3!} + \dots$
+		$f(t) = e^{it}$
+		$f\prime(t) = ie^{it}$
+		$f\prime\prime(t) = i^2e^{it} = -e^{it}$
+		$f\prime\prime\prime = -ie^{it}$
+		$f^4(t) = -i^2e^{it} = e^{it}$
+
+Suppose the equation $ay\prime\prime + by\prime + cy = 0$ has the characteristic equation $ar^2+br+c=0$ that has complex roots, so
+	$\displaystyle r_1,r_2 = \frac{-b \pm \sqrt{b^2-4ac}}{2a} = \alpha \pm i\beta$
+		$r_1 = \alpha + i\beta, r_2 = \alpha - i\beta$
+		So two solutions
