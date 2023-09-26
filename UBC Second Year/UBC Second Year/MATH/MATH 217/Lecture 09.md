@@ -33,3 +33,13 @@ Directional derivative:
 			$D_{\vec{u}}f(x_0,y_0) = (\vec{\nabla}f)(x_0,y_0)\cdot \vec{u}$
 				where $\vec{\nabla} f = <f_x, f_y>$
 					($\vec{\nabla}$ = gradient vector field)
+
+At a point $(x_0,y_0)$, what direction do we go in so that $f$ increases the fastest?
+	$D_{\vec{u}}f(x_0,y_0)$ is largest for what $\vec{u}$
+	$\displaystyle (\vec{\nabla} f)(x_0,y_0)\cdot\vec{u} = \left|(\vec{\nabla}f)(x_0,y_0)\right|\cos\theta$
+		$D_{\vec{u}}f$ is largest for $\theta = 0$
+			$\vec{u}$ is in the direction of $\vec{\nabla}f$
+				$\vec{\nabla}f)(x_0,y_0)$ is the vector that points in the direction of the greatest rate of change and the magnitude is that rate
+
+If we are travelling along a contour line, our elevation is not changing, so the $D_{\vec{u}}f(x_0,y_0) = 0$ for $\vec{u}$ tangent to a contour
+	$D_{\vec{u}}f(x_0,y_0)\cdot \vec{u} \to$ gradient is perpendicular to the contour
