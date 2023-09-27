@@ -1,21 +1,13 @@
-Direction derivative and gradient formulas work for $f(x,y,z)$
-	$D_{\vec{u}}f =\vec{\nabla}f\cdot\vec{u}$
-	$\vec{\nabla}f = <f_x,f_y,f_z>$
-	$\vec{\nabla}f \perp$ to contour surfaces
-		(a.k.a. level surfaces)
-		$f(x,y,z) = k$
+Constant coefficient 2nd order linear ODEs
+	Suppose we have the differential equation $ay\prime\prime+by\prime+cy=0$,
+	with the characteristic equation
+		$ar^2+br+c=0$
+	which has roots
+		$\displaystyle r_1,r_2=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
+			1) If $b^2-4ac > 0$, then $r_1$ and $r_2$ are real and distinct and the general solution is
+				$\displaystyle y = c_1e^{r_1x}+c_2e^{r_2x}$
+			2) If $b^2-4ac = 0$, then $r_1 = r_2$ and the general solution is
+				$\displaystyle y=c_1e^{r_1x}+c_2e^{r_1x}$
+			3) If $b^2-4ac < 0$, then $r_1$ and $r_2$ are complex and of the form $r_1,r_2 = \alpha \pm i\beta$
+				$y = c_1e^{\alpha x}\cos(\beta x) + c_2e^{\alpha x}\sin(\beta x)$
 
-The equation of the plan tangent to the surface $f(x,y,z) = k$ at $(x_0,y_0,z_0)$
-	$0 = f_x(x_0,y_0,z_0)(x-x_0)+f_y(x_0,y_0,z_0)(y-y_0)+f_z(x_0,y_0,z_0)(z-z_0)$
-	$\vec{N} = <f_x(x_0,y_0,z_0),f_y(x_0,y_0,z_0),f_z(x_0,y_0,z_0)>$
-
-$f_x(x_0,y_0,z_0)(x-x_0)+f_y(x_0,y_0,z_0)(y-y_0)+f_z(x_0,y_0,z_0)(z-z_0) = 0$
-	Tangent plane to the surface $f(x,y,z) = k$ at $(x_0,y_0,z_0)$
-
-Don't confuse with
-	$z = z_0 + f_x(x_0,y_0)(x-x_0)+f_y(x_0,y_0)(y-y_0)$
-	Tangent plane to a graph $z=f(x,y)$ at $(x_0,y_0,z_0)$
-
-Linear approximation
-	$f(x,y,z) \approx f(x_0,y_0,z_0) + f_x(x_0,y_0,z_0)(x-x_0)+f_y(x_0,y_0,z_0)(y-y_0) + f_z(x-x_0,y-y_0,z-z_0)$
-	
