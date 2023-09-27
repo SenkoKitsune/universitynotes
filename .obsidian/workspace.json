@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/MATH/MATH 220/Lecture 07.md",
+                "file": "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/MATH/MATH 220/Lecture 07.md",
+                "file": "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/MATH/MATH 220/Lecture 07.md",
+                "file": "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 10.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/MATH/MATH 220/Lecture 07.md"
+                "file": "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 10.md"
               }
             }
           },
@@ -218,6 +218,7 @@
   "active": "ff60ee45772db97d",
   "lastOpenFiles": [
     "UBC Second Year/UBC Second Year/MATH/MATH 220/Lecture 07.md",
+    "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 10.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 220/Lecture 05.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 220/Lecture 01.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 09.md",
@@ -244,7 +245,6 @@
     "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture/Lecture 01.md",
     "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Tutorial",
     "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture",
-    "UBC Second Year/UBC Second Year/ENPH/ENPH 259/Lecture 02.md",
     "UBC Second Year/UBC Second Year/ELEC/ELEC 204",
     "UBC Second Year/UBC Second Year/ELEC",
     "UBC Second Year/UBC Second Year/ENPH/ENPH 259",
