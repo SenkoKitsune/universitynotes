@@ -22,3 +22,8 @@ Very often, we combine quantifiers to form more complicated statements
 				For example, for an arbitrary $y\in\mathbb{R}$, if we take $x = 1-y$, then
 					$x + y = (1-y) + y = 1 \neq 0$
 
+When defining variables in respect to other variables, you can only define backwards, and not forwards
+	$\exists x \in\mathbb{R}, \forall y \in \mathbb{R}, \exists z$
+		$y = -x$ is correct
+		$x = -y$ is not correct because you are defining $x$ with a variable that comes after or forwards
+
