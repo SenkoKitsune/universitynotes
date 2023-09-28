@@ -17,5 +17,10 @@ Once we find a critical point $(x_0,y_0)$, $(\vec{\nabla}F)(x_0,y_0) = 0$
 		$D(x_0,y_0) < 0$, then $(x_0,y_0)$ is a saddle point
 		$D(x_0,y_0) > 0$, then $(x_0,y_0)$ is a local min/max
 			1) $D(x_0,y_0) < 0$ & $f_{xx} \text{ or } f_{yy} < 0$ is a local max
-			2) $D(x_0,y_0) < 0$ & $f_{xx} > 0$ is a local min
+			2) $D(x_0,y_0) < 0$ & $f_{xx} \text{ or } f_{yy} > 0$ is a local min
 		$D(x_0,y_0) = 0$ is not an ordinary critical point
+
+
+1) If $D(x_0,y_0) > 0$, then if $\textrm{tr}(H) > 0$, then it is a local max
+2) If $D(x_0,y_0) > 0$, the if $\textrm{tr}(H) < 0$, then it is a local min
+
