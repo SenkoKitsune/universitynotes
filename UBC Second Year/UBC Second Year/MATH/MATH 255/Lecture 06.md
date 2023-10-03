@@ -14,5 +14,5 @@ Suppose $\displaystyle M(x,y)+N(x,y)\frac{dy}{dx} = 0$ is not exact. Sometimes w
 		If $u=u(y)$
 			$\displaystyle \frac{du}{dy}= -\frac{M_y-N_x}{M}u$
 				$\displaystyle \frac{\partial u}{\partial y}\cdot M + uM_y = \frac{\partial u}{\partial x}\cdot N + uN_x$
-				$\displaystyle \Rightarrow \frac{du}{dx}=u\left(\frac{N_x-M_y}{M}\right)$ needs to be independent of x
+				$\displaystyle \Rightarrow \frac{du}{dy}=u\left(\frac{N_x-M_y}{M}\right)$ needs to be independent of x
 

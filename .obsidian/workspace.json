@@ -39,7 +39,69 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 05.md",
+                "file": "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 06.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0602c60c10be282d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 06.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43f21b324d845a44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 06.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2f4d54e76827942",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
+          },
+          {
+            "id": "017a7407773afe3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 08.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c1544b530a7b837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +109,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -121,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 05.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 05.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 05.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -202,9 +264,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b817353ab5c3b346",
+  "active": "0c1544b530a7b837",
   "lastOpenFiles": [
+    "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 08.md",
+    "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 07.md",
+    "conflict-files-obsidian-git.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 06.md",
+    "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 05.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 02.md",
     "UBC Second Year/UBC Second Year/CPEN/CPEN 221/Lecture 05.md",
     "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture/Lecture 05.md",
@@ -212,12 +278,10 @@
     "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 08.md",
     "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture/Lecture 03.md",
     "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture/Lecture 02.md",
-    "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 07.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 07.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 06.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 220/Lecture 01.md",
     "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture/Lecture 04.md",
-    "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 05.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 04.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 220/Lecture 06.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 05.md",
@@ -230,8 +294,6 @@
     "UBC Second Year/UBC Second Year/ENPH/ENPH 259/Lecture 02.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 220/Lecture 04.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 220/Lecture 02.md",
-    "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 01.md",
-    "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 02.md",
     "UBC Second Year/UBC Second Year/ELEC/ELEC 204",
     "UBC Second Year/UBC Second Year/ELEC",
     "UBC Second Year/UBC Second Year/ENPH/ENPH 259",
