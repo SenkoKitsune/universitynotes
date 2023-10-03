@@ -28,3 +28,7 @@ Area above the x-axis - area below the x-axis = total area of integral
 
 
 $\sim T \implies \sim((Q\implies R) \implies P)$
+
+) If $b^2-4ac = 0$, then $r_1 = r_2$ and the general solution is
+		$\displaystyle y=c_1e^{r_1x}+c_2e^{r_1x}$
+
