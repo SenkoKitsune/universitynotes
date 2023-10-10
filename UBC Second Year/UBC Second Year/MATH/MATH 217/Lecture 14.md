@@ -14,3 +14,5 @@ Fubini's Theorem:
 	We can do the integral in either order
 		$\displaystyle \iint_{R} fdA = \int_{y=c}^{d}\left(\int_{x=a}^{b}f(x,y) dx\right)dy = \int_{x=a}^{b}\left(\int_{y=c}^{d}f(x,y) dy\right)dx$
 
+Volume = $\displaystyle \iint_{R} fdA = \int_{x=0}^{a}\left(\int_{y=0}^{b}f(x,y) dy\right)dx$
+	iterated integral computes volume by slicing
