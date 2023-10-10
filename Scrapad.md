@@ -28,3 +28,6 @@ Area above the x-axis - area below the x-axis = total area of integral
 
 
 $\sim T \implies \sim((Q\implies R) \implies P)$
+
+
+I'm getting ghosted by Chris so could you help me check over my email to Dr. Folk about research co-op?
