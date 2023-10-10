@@ -16,3 +16,6 @@ Fubini's Theorem:
 
 Volume = $\displaystyle \iint_{R} fdA = \int_{x=0}^{a}\left(\int_{y=0}^{b}f(x,y) dy\right)dx$
 	iterated integral computes volume by slicing
+	Using this thinking, we can handle more general domains of integration
+		$D$ is <u>vertically sliceable</u> if $\displaystyle D = \set{(x,y): g_1(x) \leq y \leq g_2(x), a \leq x \leq b}$
+		
