@@ -3,3 +3,4 @@ More linearity
 	$\displaystyle \iint_{D} fdA = \iint_{D_1}f dA + \iint_{D_2}fdA$
 		$D = D_1 \cup D_2$
 
+ju
