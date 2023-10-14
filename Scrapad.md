@@ -28,3 +28,8 @@ Area above the x-axis - area below the x-axis = total area of integral
 
 
 $\sim T \implies \sim((Q\implies R) \implies P)$
+
+
+$L = \max(|x_1|, |x_2|, \dots, |x_N|)$
+
+
