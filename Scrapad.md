@@ -35,8 +35,6 @@ $L = \max(|x_1|, |x_2|, \dots, |x_N|)$
 
 $\displaystyle \lim_{n \to \infty} n = \infty$ 
 
-**Proposition:**
-For every positive number \(\epsilon \in \mathbb{R}\), there exists a positive number \(M \in \mathbb{R}\) such that for all \(x > M\), the inequality \(\left|\frac{x^2}{2x^2+1} - \frac{1}{2}\right| < \epsilon\) holds.
 
 **Proof:**
 
@@ -79,6 +77,6 @@ For \(\epsilon\) small enough such that \(\frac{1}{4\epsilon} - \frac{1}{2} > 0\
 
 For \(\epsilon \geq \frac{1}{2}\), the range of the function \(\frac{x^2}{2x^2+1}\) which is [0, 0.5], ensures that \(\left|\frac{x^2}{2x^2+1} - \frac{1}{2}\right| < \epsilon\) holds for all \(x\) because \(\epsilon\) is larger than the maximum possible absolute difference.
 
-Therefore, for every positive number \(\epsilon \in \mathbb{R}\), there exists a positive number \(M \in \mathbb{R}\) (specific as above for \(\epsilon < \frac{1}{2}\) and arbitrary positive for \(\epsilon \geq \frac{1}{2}\)) such that for all \(x > M\), the desired inequality is satisfied. 
+Therefore, for every positive number \(\epsilon \in \mathbb{R}\), there exists a positive number \(M \in \mathbb{R}\) (specific as above for \(\epsilon < \frac{1}{2}\) and arbitrary positive for $\(\epsilon \geq \frac{1}{2}\)) such that for all \(x > M\), the desired inequality is satisfied. 
 
 This completes the proof. \(\blacksquare\)
