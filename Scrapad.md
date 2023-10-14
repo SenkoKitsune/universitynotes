@@ -33,3 +33,5 @@ $\sim T \implies \sim((Q\implies R) \implies P)$
 $L = \max(|x_1|, |x_2|, \dots, |x_N|)$
 
 
+$\displaystyle \lim_{n \to \infty} n = \infty$ 
+
