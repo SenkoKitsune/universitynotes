@@ -94,9 +94,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c6e2e89a940b6b14",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -251,7 +261,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "017a7407773afe3c",
+  "active": "c6e2e89a940b6b14",
   "lastOpenFiles": [
     "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 13.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 12.md",
