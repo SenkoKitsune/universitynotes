@@ -59,4 +59,9 @@ Not all fields are conservative
 		$P = f_x$, $Q = f_y$, $R = f_z$
 			P, Q, R satisfy
 				$P_y = Q_x$, $Q_z = R_y$, $P_z = R_x$
-				
+
+Definition: $\vec{F} = \left<P, Q, R\right>$
+	We define curl of $\vec{F}$ as
+		$\textrm{curl}\vec{F} = (R_y - Q_z)\vec{i} + (P_z - R_x)\vec{j} + (Q_x - P_y)\vec{k}$
+			$\vec{F}$ is conservative if $\textrm{curl}\vec{F} = \vec{0}$
+			
