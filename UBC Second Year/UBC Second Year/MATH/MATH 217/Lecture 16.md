@@ -32,10 +32,31 @@ Example: $\vec{F}(x,y,z)$ be the gravitational force felt by a object of mass $m
 	$\vec{F} = \left<-\dfrac{mMG\cdot x}{\left(x^2+y^2+z^2\right)^{3/2}},-\dfrac{mMG\cdot y}{\left(x^2+y^2+z^2\right)^{3/2}}, -\dfrac{mMG\cdot z}{\left(x^2+y^2+z^2\right)^{3/2}} \right>$
 	Let $f(x,y,z) = \dfrac{mMG}{r}$
 		$= \dfrac{mMG}{\sqrt{x^2+y^2+z^2}}$
-	$\displaystyle f_x  = -\dfrac{mMG\cdot x}{\left(x^2+y^2+z^2\right)^{3/2}}$
+	$\displaystyle f_x  = -\dfrac{mMG\cdot x}{\left(x^2+y^2+z^2\right)^{3/2}}$$
 	$f_y = -\dfrac{mMG\cdot y}{\left(x^2+y^2+z^2\right)^{3/2}}$
 	$f_z = -\dfrac{mMG\cdot z}{\left(x^2+y^2+z^2\right)^{3/2}}$
 	$\left<f_x, f_y, f_z \right> = \vec{F}$
 
 Suppose $\vec{r}(t) = \left< x(t), y(t), z(t) \right>$ is the path of a planet of mass m in the solar system
-	$m \cdot a(t) = \vec{F}$
+	$m \cdot a(t) = \vec{F} = \vec{\nabla} f$
+	$m\dfrac{d\vec{v}}{dt} = \vec{\nabla} f$
+	$\vec{v}(t) = \dfrac{d\vec{r}}{dt}$ take the dot product of both sides with $\vec{v}$$
+	$\dfrac{1}{2} m\dfrac{d}{dt}\left(\vec{v} \cdot \vec{v}\right) = \vec{\nabla} f \cdot \vec{v}$
+		$\displaystyle = \left<f_x, f_y, f_z\right> \cdot \left<\frac{dx}{dt}, \frac{dy}{dt}, \frac{dz}{dt}\right>$
+		$\displaystyle = \frac{\partial f}{\partial x}\frac{dx}{dt} + \frac{\partial f}{\partial y}\frac{dy}{dt} + \frac{\partial f}{\partial z}\frac{dz}{dt}$
+		$\displaystyle = \frac{d}{dt}f(x(t), y(t), z(t))$
+		$\Rightarrow \dfrac{d}{dt}\left(\dfrac{1}{2} m \left|\vec{v}\right|^2 - f\left(x(t), y(t), z(t)\right)\right) = 0$
+			$\displaystyle \frac{d}{dt}\left(\text{Kinetic energy + Potential energy}\right) = 0$
+			$\displaystyle \frac{d}{dt} \left(\vec{v}(t) \cdot \vec{v}(t)\right) = \vec{v}\prime\cdot\vec{v} + \vec{v}\cdot\vec{v}\prime$
+			$= 2 (\vec{v}\cdot \vec{v}\prime)$
+				$\Rightarrow \vec{v} \cdot \dfrac{d\vec{v}}{dt} = \dfrac{1}{2}\dfrac{d}{dt}\left(\vec{v}\cdot\vec{v}\right)$
+
+Not all fields are conservative
+	If $\vec{F} = \left<P(x,y), Q(x,y)\right>$ is conservative, $P = f_x$, $Q = f_y$ for some $f(x,y)$
+		$\Rightarrow P_y = Q_x (=f_{xy})$
+			Necessary condition for $\vec{F}$ to be conservative
+	If $\vec{F} = \left<P(x,y,z), Q(x,y,z), R(x,y,z)\right>$, then,
+		$P = f_x$, $Q = f_y$, $R = f_z$
+			P, Q, R satisfy
+				$P_y = Q_x$, $Q_z = R_y$, $P_z = R_x$
+				
