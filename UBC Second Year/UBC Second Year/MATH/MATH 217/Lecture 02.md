@@ -13,7 +13,7 @@ Vectors in coordinates:
 	The vector from $(0,0)$ to $(a,b)$ is the vector $<a,b>$
 
 Similarly for vectors in $\mathbb{R}^3$, we will also use $\vec{i}, \vec{j}, \vec{k}$ notations
-	$\vec{i} = <1,0,0>$
+	$\vec{i} = \right<1,0,0>$
 	$\vec{j} = <0,1,0>$
 	$\vec{k} = <0,0,1>$
 
