@@ -19,3 +19,7 @@ or $\vec{\nabla} \times \left(\vec{\nabla} f \right) = \vec{0}$
 		This condition is sufficient if the domain of $\vec{F}$ is <u>simply connected</u>
 
 We want to integrate functions and vector fields along curves
+	Called line integrals
+
+
+
