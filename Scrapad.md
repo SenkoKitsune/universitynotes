@@ -86,3 +86,8 @@ Therefore, for every positive number \(\epsilon \in \mathbb{R}\), there exists a
 
 This completes the proof. \(\blacksquare\)
 >>>>>>> b8b899b245b90a35064bf17502f8608c4de3b692
+
+
+$\displaystyle \frac{1}{2}$
+
+$\displaystyle \int_{n = 1}^{4}$

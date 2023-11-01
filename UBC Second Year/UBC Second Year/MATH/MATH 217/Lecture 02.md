@@ -10,12 +10,12 @@ Vectors are quantities with magnitude and direction
 		position is changeable
 
 Vectors in coordinates:
-	The vector from $(0,0)$ to $(a,b)$ is the vector $<a,b>$
+	The vector from $(0,0)$ to $(a,b)$ is the vector $\left<a,b\right>$
 
 Similarly for vectors in $\mathbb{R}^3$, we will also use $\vec{i}, \vec{j}, \vec{k}$ notations
-	$\vec{i} = \right<1,0,0>$
-	$\vec{j} = <0,1,0>$
-	$\vec{k} = <0,0,1>$
+	$\vec{i} = \left<1,0,0\right>$
+	$\vec{j} = \left<0,1,0\right>$
+	$\vec{k} = \left<0,0,1\right>$
 
 Vector + vector = vector
 Scalar + vector = vector
