@@ -99,8 +99,13 @@
             "id": "c6e2e89a940b6b14",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 18.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -178,6 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,6 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 18.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +222,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 18.md"
+              }
             }
           },
           {
@@ -241,7 +250,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,6 +266,7 @@
   },
   "active": "c6e2e89a940b6b14",
   "lastOpenFiles": [
+    "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 18.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 17.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 16.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 14.md",
@@ -281,7 +292,6 @@
     "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture/Lecture 06.md",
     "conflict-files-obsidian-git.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 08.md",
-    "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 03.md",
     "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Tutorial",
     "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture",
     "UBC Second Year/UBC Second Year/ELEC/ELEC 204",
