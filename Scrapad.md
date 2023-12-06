@@ -91,3 +91,18 @@ This completes the proof. \(\blacksquare\)
 $\displaystyle \frac{1}{2}$
 
 $\displaystyle \int_{n = 1}^{4}$
+
+
+| Voltage | Count | RPM |
+| ------- | ----- | --- |
+| 0       | 0     | 0   |
+| 1       | 197   |     |
+|         |       |     |
+
+
+| Voltage Set | Voltage DAC | RPM |
+| ----------- | ----------- | --- |
+| 0           | 0           | 0   |
+| 1           | 1           | 51  |
+| 2.5         | 2.5         | 128 |
+|             |             |     |
