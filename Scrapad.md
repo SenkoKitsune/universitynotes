@@ -13,6 +13,7 @@ Solarcycle:
 		edp renewables
 	ISO 9001, 14001, 45001 certified
 	Working with Department of Energy's National Renewable Energy Lab
+	"endorsed" by  Solar Energy Industry Assocuation
 	
 
 Forbes https://www.forbes.com/sites/jeffkart/2023/03/15/solarcycle-plans-to-recycle-1-million-panels-a-year-with-help-from-30-million-in-financing/?sh=9e647a45406c: 
@@ -31,8 +32,6 @@ CNBC: https://www.cnbc.com/2022/10/03/solarcycle-partners-with-sunrun-to-recycle
 	Solarcycle partners with SunRun, allowing the company to recycle at scale
 	Materials from recycled panels can be worth more than 2.7Bil USD in 2030, 170 mil in 2022
 *Sunrun*
-	Listed on Nasdaq
-		market cap: 3.5 bil
 	Services:
 		residential solar installation
 		leasing and financing
