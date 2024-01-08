@@ -1,5 +1,19 @@
 Solarcycle: 
-
+	repair, refurbish, and recycle end of life systems
+	Member of Solar Energy Industries Association PV REcycling Program
+		Advanced Energy United
+		American Clean Power
+	Partnered with
+		Sunrun
+		Silicon ranch
+		edf renewables
+		orsted
+		AES
+		greenbacker capital
+		edp renewables
+	ISO 9001, 14001, 45001 certified
+	Working with Department of Energy's National Renewable Energy Lab
+	
 
 Forbes https://www.forbes.com/sites/jeffkart/2023/03/15/solarcycle-plans-to-recycle-1-million-panels-a-year-with-help-from-30-million-in-financing/?sh=9e647a45406c: 
 	Founded in 2022
