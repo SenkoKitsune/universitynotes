@@ -12,7 +12,14 @@ The perpendicular arm extra delay has the same sign and is half as much, so the 
 	fringe shift = $cycles_{\parallel}-cycles_{\perp} \approx \dfrac{L}{\lambda}{u^2}{c^2}$
 	
 The Earth moves $2\pi \cdot 150\times10^6$ km around the Sun in $265.25\cdot 24\cdot 60\cdot 60 = 3.16\times 10^7$ sec, so $u = 29.86$ km/s
-The Sun also orbits around the entre of mass of galaxy. This is estimated about 200km/s. 6.7 times faster tha Earth vs Sun
+The Sun also orbits around the entre of mass of galaxy. This is estimated about 200km/s. 6.7 times faster than Earth vs Sun
 Cosmic microwave background radiation looks a bit colder in one direction (more red-shift) than the opposite direction/ This implies our galaxy is moving about 630 km/s, 21 times faster than Earth vs Sun
 
-T
+A red-shift of 1.1 means the source is moving away at 10% the speed of light
+
+Coordinate system Jargon
+$S$ is a frame with origin $O$ for coordinate $x$ and time $t$
+$S'$ is another frame with origin $O'$ for coordinate $x'$ and time $t'$
+$S'$ is moving with veloticy $u$ in the x-direction as seen from S
+
+For arithemetical convenience, we assume that the origins of $O$ and $O'$ overlap at 
