@@ -45,3 +45,28 @@ Let's keep the x transform but try a time transformation that depends on positio
 		$x' = (x-ut)\cdot f(u)$
 		$t' = (t-\dfrac{ux}{c^2})\cdot f(u)$
 
+The diagonal light path is $L' = \sqrt{L^2 + \left(\dfrac{uT'}{2}\right)}$, which depends on the period $T' = \dfrac{2L}{c} \to L' = \dfrac{T'}{2}$
+Set these equal to get $T' = \dfrac{2L}{c}\dfrac{1}{\sqrt{1-\left(\dfrac{u}{c}\right)^2}}$
+Time intervals are different by the factor $\dfrac{1}{\sqrt{1-\left(\dfrac{u}{c}\right)^2}}$
+Set that to $f(u)$:
+	$x' = (x-ut)\cdot \dfrac{1}{\sqrt{1-\left(\dfrac{u}{c}\right)^2}}$
+	$t' = (t-\dfrac{ux}{c^2})\cdot \dfrac{1}{\sqrt{1-\left(\dfrac{u}{c}\right)^2}}$
+
+When the light is moving in the same direction, the light pulse has to travel $cT_1 = L + uT_1$
+Moving in the other direction, :$T_2 = \dfrac{L}{c+u}$
+
+So the period is $T_1 + T_2 = \dfrac{2L}{c}\dfrac{1}{1-\dfrac{u^2}{c^2}}$
+
+So moving objects appear shorter by a factor that makes the horizontal light clock tick at the same rate as the vertical clock
+
+# Length of a moving object
+We measure the coordinates in frame $S$ on both ends of a moving object at the same time $t = 0$ and $x_1 = 0, x_2 = L_{lab}$
+	$x'_2 = \dfrac{x_2 - ut}{\sqrt{1-\left(\dfrac{u}{c}\right)^2}}$
+The object length in its own frame is $L_{own} = x'_2 - x'_1 = \dfrac{L_{lab}}{\sqrt{1-\left(\dfrac{u}{c}\right)^2}}$
+So $L_{lab} = L_{own}\sqrt{1-\left(\dfrac{u}{c}\right)^2} < L_{own}$
+
+Lorentz Contraction
+	$\beta \equiv \dfrac{u}{c}$      $\gamma \equiv \dfrac{1}{sqrt{1-\beta^2}}$
+	Moving objects look shorter: $L_{moving} = \dfrac{L_rest}{\gamma}$
+	Time dilation: moving clocks tick slower: $T_{moving} = \gamma T_{rest} \leftrightarrow f_{moving} = \dfrac{f_{rest}}{\gamma}$
+	
