@@ -84,3 +84,15 @@ Simply and solve for $y_2'$
 	So $(y_2')^2 = 1\cdot(cT)^2 = (y_2)^2$
 		The y-coordinate doesn't change
 
+# Relativistic Velocity Addition
+If an object is moving with velocity $v'$ as measured in $S'$ which is moving with velocity $u$ seen from the $S$ frame
+	$x = x' = 0$ and $t = t' = 0$
+		In the $S'$ frame, at time $t'$ it will be at $x' = v't'$
+		In the S frame, that corresponds to
+			$x = \gamma (v' + u)t'$
+			$ct = \gamma\left(1+\dfrac{uv'}{c^2}\right)ct'$
+			The velocity in the S frame is
+				$v = \dfrac{x}{t} = \dfrac{x}{ct\dfrac{1}{c}} = \dfrac{v'+u}{1+\dfrac{v'\cdot u}{c^2}}$
+			The denominator keeps the velocity as less than $c$
+			Something moving at $c$ in $S'$ is also moving at $c$ in $S$, independent of $u$
+Define $\beta' = \dfrac{v'}{c}$ and $\beta = \dfrac{u}{c}$ to write $\dfrac{v}{c}$ as $\dfrac{\beta' + \beta}{\beta\cdot\beta' + 1}$
