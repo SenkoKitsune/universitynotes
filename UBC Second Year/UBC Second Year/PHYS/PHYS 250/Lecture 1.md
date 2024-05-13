@@ -20,6 +20,28 @@ A red-shift of 1.1 means the source is moving away at 10% the speed of light
 Coordinate system Jargon
 $S$ is a frame with origin $O$ for coordinate $x$ and time $t$
 $S'$ is another frame with origin $O'$ for coordinate $x'$ and time $t'$
-$S'$ is moving with veloticy $u$ in the x-direction as seen from S
+$S'$ is moving with velocity $u$ in the x-direction as seen from S
 
-For arithemetical convenience, we assume that the origins of $O$ and $O'$ overlap at 
+For arithmetical convenience, we assume that the origins of $O$ and $O'$ overlap at $t = t' = 0$ meaning $x = x' = 0$ at $t = t' = 0$
+
+The Galilean Transformations:
+	$x' = x - ut$            $t' = t$
+
+To find velocity in $S'$, we take the time-derivative using $x'$ and $t'$
+	$\dfrac{dx'}{dt'} = \dfrac{dx'}{dt} = \dfrac{d}{dt})(x-ut)=\dfrac{dx}{dt}-u$
+		So velocities are different is $S'$: we subtract u
+			That would make the speed of light frame-dependent, so these can't be the right coordinate transformations
+
+Let's keep the x transform but try a time transformation that depends on position and velocity
+	$x' = x-ut$
+	$t' = t - \dfrac{ux}{c^2}$
+	A light pulse is created in S at $t_1 = x_1 = 0$ and absorbed at $t_w = T, x_w = cT$
+	Plug into transformation to find the $S'$ frame values:
+		$x'_1 = 0, x_2' = (c-u)T$
+		$t_1' = 0, t_2' = (1-\dfrac{u}{c})T$
+	Find the velocity of light in $S'$ frame:
+		$V' =\dfrac{x'_2-x'_1}{t'_2 - t'_1}= c$
+	Additionally we would find the speed of light is the same in $S'$ and $S$ if we multiplied the transformation laws by any function of velocity $u$, as long as we use the same function for both
+		$x' = (x-ut)\cdot f(u)$
+		$t' = (t-\dfrac{ux}{c^2})\cdot f(u)$
+
