@@ -112,9 +112,12 @@
             "id": "e2e45eb248c84c76",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.3"
+                "file": "UBC Second Year/UBC Second Year/PHYS/PHYS 250/Lecture 1.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -193,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scrapad.md",
+                "file": "UBC Second Year/UBC Second Year/PHYS/PHYS 250/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scrapad.md",
+                "file": "UBC Second Year/UBC Second Year/PHYS/PHYS 250/Lecture 1.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scrapad.md"
+                "file": "UBC Second Year/UBC Second Year/PHYS/PHYS 250/Lecture 1.md"
               }
             }
           },
@@ -278,6 +281,9 @@
   },
   "active": "e2e45eb248c84c76",
   "lastOpenFiles": [
+    "UBC Second Year/UBC Second Year/PHYS/PHYS 250",
+    "UBC Second Year/UBC Second Year/PHYS/PHYS 250/Lecture 1.md",
+    "UBC Second Year/UBC Second Year/PHYS",
     "Notepad.md",
     "Scrapad.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 217/Lecture 18.md",
@@ -302,8 +308,6 @@
     "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 10.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 255/Lecture 09.md",
     "UBC Second Year/UBC Second Year/MATH/MATH 220/Lecture 07.md",
-    "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture/Lecture 06.md",
-    "conflict-files-obsidian-git.md",
     "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Tutorial",
     "UBC Second Year/UBC Second Year/ELEC/ELEC 204/Lecture",
     "UBC Second Year/UBC Second Year/ELEC/ELEC 204",
@@ -313,7 +317,6 @@
     "UBC Second Year/UBC Second Year/CPEN/CPEN 221",
     "UBC Second Year/UBC Second Year/CPEN",
     "UBC Second Year/MATH/MATH 255",
-    "UBC Second Year/MATH/MATH 217",
     "Pasted image 20230328144308.png",
     "Pasted image 20230327153240.png",
     "Pasted image 20230327120626.png",
