@@ -20,3 +20,8 @@ Molecules with $v_x, v_y, v_z$
 	x- velocity distribution of $n$ $n_v(v_x)$
 	$n_v(v_x)dv_x \equiv \dfrac{Nv_x}{V}$
 
+$Av_xdt \to$ volume within which all particles moving with $v_x$ hit the wall
+	# of molecules withing $dv_x$ of $v_x$ that hit the wall in time $dt$:
+		$n_v(v_x)dv_xAv_xdt$
+	Total momentum of these molecules: # molecules $\cdot \dfrac{\text{mass}}{\text{mol}}\cdot v$
+	
