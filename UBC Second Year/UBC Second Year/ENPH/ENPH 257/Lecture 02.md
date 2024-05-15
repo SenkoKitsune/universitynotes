@@ -26,3 +26,26 @@ Average of $v_x$ over the distribution will be
     $\displaystyle \langle v^2_x\rangle = \dfrac{\int_{-\infty}^{\infty}n_v(v_x)v_x^2dv_x}{\int_{-\infty}^{\infty}n_v(v_x)dv_x} = \dfrac{\int_{-\infty}^{\infty}n_v(v_x)v_x^2dv_x}{\dfrac{N}{V}}$
     And therefore
       $\displaystyle \int_{0}^{\infty}n_v(v_x)v_x^2dv_x=\dfrac{N}{2V}\langle v_x^2\rangle$
+
+Putting these together we have 
+  $\displaystyle \int_{0}^{\infty} 2mv^2_xAn_v(v_x)dv_x 2mA \int_{0}^{\infty}n_v(v_x)v^2_xdv_x = 2mA\frac{N}{2V}\langle v^2_x\rangle$
+
+So $PV = Nk_bT$ and $PV = N\dfrac{2}{3}\langle KE\rangle$, establising a relation between $k_bT$ and $\langle KE \rangle$ for an ideal gas
+
+
+
+
+Microscopic calculation: $PV = Nm\langle v_x^2\rangle = \dfrac{N}{3} m\langle v^2\rangle$
+Experimental observation $PV = Nk_bT$
+
+Together, these imply:
+  $3k_bT = m\langle v^2\rangle \to \dfrac{3}{2}k_bT = \langle KE\rangle$ where $\langle KE \rangle$ is the average kinetic energy per particle
+  $\dfrac{1}{2}k_bT = \dfrac{1}{2}m\langle v_x^2\rangle = \dfrac{1}{2}m\langle v^2_y\rangle = ...$
+
+
+For an ideal gas, U is whell define: KE are the only avaliable degrees of freedom, so for a system with N particles, $U = \sum_{N} KE$
+
+But $U = \sum_N KE = N \cdot \langle KE \rangle = \dfrac{N}{2}m\langle v^2\rangle = \dfrac{3}{2}Nk_bT = \dfrac{3}{2}PV$ for a monatomic ideal gas only
+
+Notice $U$ only depend on temeprature for an ideal gas
+
