@@ -63,4 +63,22 @@ The relativistic momentum P is the regular mass $m$ times the proper velocity $w
 The relativistic mass M is the regular mass $m$ times $\gamma$
 	$M = \gamma m = \dfrac{m}{\sqrt{1-\dfrac{v^2}{c^2}}}$
 	At low velocity, relativistic mass is the same as regular mass, but near light speed it's much larger
-		
+		Same force gives less and less acceleration as $v$ approaches $v$
+
+Transforming Relativistic Momentum
+	The whole point of $\tau$ = is that it is the same in all frames, $m$ is also the same in all frames
+		We need to transform $x$ and $ct$ into the new frame
+		There should be some other quantity $Q = m\dfrac{d}{d\tau}dt$ involved when dealing with relativistic momentum
+		Since $t =\gamma\tau$, we can write $Q = m\dfrac{d}{d\tau}c\gamma\tau = \gamma mc$
+
+What is $Q = \dfrac{mc}{\sqrt{1-\dfrac{v^2}{c^2}}}$
+	For $v << c$, the Taylor expansion is $Q \approx mc\left(1+\dfrac{1}{2}\dfrac{v^2}{c^2}\right)$
+	So $Qc \approx mc^2\left(1+\dfrac{1}{2}\dfrac{v^2}{c^2}\right) = mc^2 +\dfrac{1}{mv^2}$
+	That's just $mc^2 + K.E (\dfrac{1}{2}mv^2)$
+	So $Qc$ is the relativistic energy total E
+		At rest, $E = mc^2$, or $E = \gamma mc^2$
+
+ Electron-volt Units
+	 The energy scale of chem and atomic physics is eV
+		 1 eV = $1.602 \times 10^{-19} J$
+
