@@ -108,3 +108,14 @@ Steps:
 	3) Add the energies in that frame, and subtract the masses, to get the total CM kinetic energy
 Use eV so $c = 1$ so we don't write $c$
 
+In any frame, $E_{CM}^2 = (\underline{P}_1 + \underline{P}_2)^2$ is true
+In any frame, $(\underline{P}_1 + \underline{P}_2)^2 = m_1^2 + 2\underline{P}_1\cdot\underline{P}_2 + m_2^2$ is true
+
+In the common case where particle 2 is at rest, the energy is just it's mass
+	$E_1\cdot m_2 = \underline{P}_1\cdot\underline{P}_2$
+	So in that case $E^2_{CM} = m_1^2+2E_1m_2 + m_2^2$, no $\beta$ or $\gamma$ cancellations
+
+If the initial particles don't annihilate, we still have to subtract their masses
+	$K.E. = \sqrt{m_1^2 + 2E_1M_2 + m_2^2} - m_1 - m_2$
+		There can be some cancellation in this
+
