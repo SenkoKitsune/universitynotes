@@ -82,3 +82,12 @@ What is $Q = \dfrac{mc}{\sqrt{1-\dfrac{v^2}{c^2}}}$
 	 The energy scale of chem and atomic physics is eV
 		 1 eV = $1.602 \times 10^{-19} J$
 
+Proper Velocity
+	The coordinate 4-vector of a moving particle can be written
+		$\underline{X} = (ct, v_xt,v_yt,v_zt) = (c,\vec{v})\cdot t = (c,\vec{v})\cdot\gamma\tau$
+		The $\tau$-derivative of this is the proper-velocity 4-vector
+			$\underline{V} = \dfrac{d\underline{X}}{d\tau} = (c,\vec{v})$
+
+Proper momentum 4-vector
+	If we multiply the proper 4-velocity by particle rest mass, we get proper-momentum 4-vector
+		$\underline{P} = m\dfrac{d\underline{X}}{d\tau} = m\gamma\cdot(c,\vec{v})=(\gamma mc, \gamma m\vec{v}) = \left(\dfrac{\gamma mc^2}{c}, \gamma m\vec{v}\right)
