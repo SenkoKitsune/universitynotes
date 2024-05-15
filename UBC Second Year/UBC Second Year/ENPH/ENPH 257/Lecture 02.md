@@ -3,7 +3,7 @@ PV from an atomistic point of view\
   $v_x$: x-component of the velocity
   Velocity distribution of number density: $n_v(v_x)dv_x\equiv \dfrac{Nv_x}{V}$ where $Nv_x$ is the number of particles with $v_x \in \set{v_x, v_x + dv_x}$
   Notice that the number density is just the intergral of $n_v$ over all $v_x$
-    n = \dfrac{N}{V} = \int_{-\infty}^{\infty}n_v(v_x)dv_x$
+    $n = \dfrac{N}{V} = \int_{-\infty}^{\infty}n_v(v_x)dv_x$
 
 $v_xdt$ is the distance that particles with x-componenet of velocity $v_x$ move in $dt$
 $A$ is the corss-sectional area of the piston
