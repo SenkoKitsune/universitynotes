@@ -40,4 +40,27 @@ Dot-product
 	$\underline{X}_1 = (ct_1, \vec{x}_1)$
 	$\underline{X}_2 = (ct_2, \vec{x}_2)$
 	$\underline{X}_1 \cdot \underline{X}_2 = (ct_1)(ct_2) - \vec{x}_1 \cdot \vec{x_2}$
+	It is invariant
+		Remember that $\gamma^2 - \beta^2\gamma^2 = 1$
+		So the 4-vector dot product of two coordinate 4-vectors is Lorentz invariant
+			The same number in any reference frame if we transform both 4-vectors
+		The square of the 4-vector is the 4-vector dot-product with itself
 
+
+Momentum
+	The denominator in the relativistic velocity addition formula is different for all the bodies in the collision which causes classical $p=mv$ momentum to not be conserved
+
+It is best to think of many clocks in each frame. Each one shows the local time at nearby points. 
+	If you look at a distant clock (in your frame) with a telescope, it will show an earlier time than a local clock, due to speed of light delay
+We introduce another clock that moves along with the object we are defining
+	The time measured by this clock is called proper time $\tau$
+	If the velocity is moving with velocity $v$ in some frame, then proper time ticks by more slowly, with the relation $\gamma\tau = t$
+	The normal velocity $v$ is defined as $v = \dfrac{dx}{dt}$
+	The proper velocity $w$ is defined as $w = \dfrac{dx}{d\tau} = \dfrac{dx}{dt}\dfrac{dt}{d\tau} = v\cdot\dfrac{d}{d\tau}t = v\cdot \dfrac{d}{d\tau}\gamma\tau = v\gamma$
+
+The relativistic momentum P is the regular mass $m$ times the proper velocity $w$
+	$P = mw = \gamma mv = \dfrac{mv}{\sqrt{1-\dfrac{v^2}{c^2}}}$
+The relativistic mass M is the regular mass $m$ times $\gamma$
+	$M = \gamma m = \dfrac{m}{\sqrt{1-\dfrac{v^2}{c^2}}}$
+	At low velocity, relativistic mass is the same as regular mass, but near light speed it's much larger
+		
