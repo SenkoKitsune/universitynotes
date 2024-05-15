@@ -90,4 +90,21 @@ Proper Velocity
 
 Proper momentum 4-vector
 	If we multiply the proper 4-velocity by particle rest mass, we get proper-momentum 4-vector
-		$\underline{P} = m\dfrac{d\underline{X}}{d\tau} = m\gamma\cdot(c,\vec{v})=(\gamma mc, \gamma m\vec{v}) = \left(\dfrac{\gamma mc^2}{c}, \gamma m\vec{v}\right)
+		$\underline{P} = m\dfrac{d\underline{X}}{d\tau} = m\gamma\cdot(c,\vec{v})=(\gamma mc, \gamma m\vec{v}) = \left(\dfrac{\gamma mc^2}{c}, \gamma m\vec{v}\right)$
+	The $\gamma mv$ part is what we call relativistic momentum, and the $\gamma mc^2$ is what we call the relativistic total energy, so
+		$\underline{P} = \left(\dfrac{E_{rel}}{c},\vec{p}_{rel}\right)$
+	The square of a 4-momentum vector is
+		$\underline{P}^2 = (\gamma^2-\beta^2\gamma^2)(mc)^2$
+			So $\underline{P}^2 = (mc)^2$
+
+# $E^2 = p^2 + m^2$
+
+
+It is easiest to analyse cases like particle collision in the <u> Centre of mass (CM) frame </u>
+
+Steps:
+	1) Find the $\beta$ and $\gamma$ values for a Lorentz Transform that will make the sum of the beam and target momentum be zero
+	2) Transform the beam and target 4-vectors to that frame
+	3) Add the energies in that frame, and subtract the masses, to get the total CM kinetic energy
+Use eV so $c = 1$ so we don't write $c$
+
