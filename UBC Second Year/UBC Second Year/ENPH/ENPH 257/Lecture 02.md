@@ -49,3 +49,6 @@ But $U = \sum_N KE = N \cdot \langle KE \rangle = \dfrac{N}{2}m\langle v^2\rangl
 
 Notice $U$ only depend on temeprature for an ideal gas
 
+$\Delta U = Q + W$
+  $Q$ is energy added as heat
+  $W$ is energy added in some other form
