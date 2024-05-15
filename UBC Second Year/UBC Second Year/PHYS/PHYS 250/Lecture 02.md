@@ -18,4 +18,26 @@ Classical Doppler Effect
 		$f_{obs} = \dfrac{f_{source}}{1-\dfrac{u}{c}}$
 
 Extreme Classical Doppler Effect
-	For an observer at rest, $f_{obs} = \dfrac{f_{source}}
+	For an observer at rest, $f_{obs} = \dfrac{f_{source}}{1+\dfrac{u}{c}}$
+	For a source at rest, $f_{obs} = f_{source}\left(1-\dfrac{u}{c}\right)$
+
+Relativistic Doppler Effect
+	For an observer at rest and source moving away, using observer's clock
+		$\Delta T_{obs} = \gamma\Delta T_{source}\left(1+\dfrac{u}{c}\right) = \Delta T_{source}\dfrac{1+\dfrac{u}{c}}{\sqrt{\left(1+\dfrac{u}{c}\right)\left(1-\dfrac{u}{c}\right)}}$
+		For wavelength, multiply both sides by $c$
+			$\lambda_{obs} = \lambda_{source}\sqrt{\dfrac{1+\dfrac{u}{c}}{1-\dfrac{u}{c}}}$
+		For frequency, take the reciprocal
+	For a source at rest and observer moving away, we use the classical wave-front timing result, but the gamma factor goes with the moving observer
+		$\gamma\Delta T_{obs} = \dfrac{\Delta T_{source}}{1-\dfrac{u}{c}}\implies \Delta T_{obs} = \Delta T_{source}\dfrac{\sqrt{1+\dfrac{u}{c}}}{\sqrt{1-\dfrac{u}{c}}}$
+		For wavelength and reciprocal, it's the same as previous
+
+4-Vector Notation
+
+It's convenient to consider $ct$ at the 0th component of what is called _space-time coordinate 4-vector_ 
+	<u>X</u> = $(ct, x,y, z) = (ct, \bar{x})$
+
+Dot-product
+	$\underline{X}_1 = (ct_1, \vec{x}_1)$
+	$\underline{X}_2 = (ct_2, \vec{x}_2)$
+	$\underline{X}_1 \cdot \underline{X}_2 = (ct_1)(ct_2) - \vec{x}_1 \cdot \vec{x_2}$
+
