@@ -52,3 +52,19 @@ Notice $U$ only depend on temeprature for an ideal gas
 $\Delta U = Q + W$
   $Q$ is energy added as heat
   $W$ is energy added in some other form
+
+
+Quasistatic:
+  - Is the system in equilibrium with itself?
+  - If you did the process marginally slower or faster would the result be the same
+  - For a gas, this typically means parts move much slower than the speed of sound
+
+Isothermal
+  - T of system remains constant
+  - Does NOT specify anything about heat in or out
+
+Adiabatic
+  - No heat in or out
+  - For quasistatic processes, this implies no entropy change, $dS = 0$
+  - In practice, this often means "fast" processes, fast enough that heat cannot low in or out since it's impossible to insulate perfectly
+      Not fast enough that the system becomes not quasistatic
