@@ -14,3 +14,12 @@ Quantum mechanically, energy of each oscillator is quantized, just like 1s, 2s, 
 	$E = (n+\dfrac{1}{2})\hslash\omega$  for $n \in 0,1,2,...$
 You can think of each oscillator (every atom has $x,y,z$ oscillators) as able to hold $0,1,2,3...$ energy units of size $\hslash\omega$
 
+Multiplicity of joint systems
+	If there are X possible configurations of system A, and Y configurations of system B, there are $X\cdot Y$ configurations of the joint system $A + B$
+	Interacting systems A and B have a joint multiplicity $\Omega_{joint}$ that is the product of $\Omega$ of the individual systems $\Omega_{joint} = \Omega_A \times \Omega_B$
+	For interacting Einstein solids, with energy $E_A$ in A and $E_B$ in B, that multiplicity depends on how the total energy $E = E_A + E_B$ is shared between the systems:
+		$\Omega_{joint,E}(E_A)$
+	Where $\Omega_{N,q}$ is the multiplicity for an ES with N oscillators and q units of energy
+	For large systems, $\Omega_{joint, E}(E_A)$ is typically a Gaussian peaked at the most likely energy to be found in A
+	When systems are small, $\Omega_{joint, E}(E_A)$ may not be Gaussian, and in that case the most likely energy is not necessarily the average energy
+	
