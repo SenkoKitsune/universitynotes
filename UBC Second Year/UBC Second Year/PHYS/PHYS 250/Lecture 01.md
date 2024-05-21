@@ -66,7 +66,7 @@ The object length in its own frame is $L_{own} = x'_2 - x'_1 = \dfrac{L_{lab}}{\
 So $L_{lab} = L_{own}\sqrt{1-\left(\dfrac{u}{c}\right)^2} < L_{own}$
 
 Lorentz Contraction
-	$\beta \equiv \dfrac{u}{c}$      $\gamma \equiv \dfrac{1}{sqrt{1-\beta^2}}$
+	$\beta \equiv \dfrac{u}{c}$      $\gamma \equiv \dfrac{1}{\sqrt{1-\beta^2}}$
 	Moving objects look shorter: $L_{moving} = \dfrac{L_rest}{\gamma}$
 	Time dilation: moving clocks tick slower: $T_{moving} = \gamma T_{rest} \leftrightarrow f_{moving} = \dfrac{f_{rest}}{\gamma}$
 
@@ -75,7 +75,7 @@ Simplify the transform notation
 	Then cancel the time rule and multiply both sides by c: $ct' = \gamma\cdot (ct - \beta x)$
 
 So the rules can be written as
-	$x' = \gamma]codt (x - \beta ct)$
+	$x' = \gamma\cdot (x - \beta ct)$
 	$ct' = \gamma\cdot (ct - \beta x)$
 
 We want $\dfrac{\Delta s}{\Delta t} = \dfrac{\sqrt{(x'_2 - x'_1)^2 + (y_2'-y_1')^2}}{t'_2 - t_1'} = c$
