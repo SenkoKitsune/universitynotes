@@ -54,3 +54,11 @@ Photoelectric effect
 	Decreasing light frequency causes the stopping potential to move closer to zero
 	If the frequency is too low, there is no current at all for any collector voltage (threshold frequency)
 
+Einstein's Photoelectric explanation
+	The stopping potential implied there was a maximum ejected electron kinetic energy:
+		$E_{max} = qV_{stop}$
+	The dependence of the stopping voltage on frequency implied that the maximum electron energy increased with light frequency
+		$qV_{stop} = hf - q\Phi_{work}$
+		where $q\Phi_{work}$ is the energy required to remove an electron from the metal surface, called the work function
+		The threshold frequency is then $hf_{thresh} = q\Phi_{work}$
+		
