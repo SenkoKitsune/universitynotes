@@ -15,7 +15,7 @@ Rayleigh-Jeans predication
 	The EM modes form a grid in $n_x, n_y$, and $n_z$ space, up to infinite $n$ values
 	The number of allowed frequencies less than $f$ is proportional to $f^3$, so the number near $f$ is proportional to $f^2df$
 		$dI_{RJ}(f) = \dfrac{2f^2}{c^2}kTdf$
-		This is the power flow in $\dfrac{J}{s\cdot m^2}$ that would come out of a small hole cut in a metal box at temperature $T$
+		This is the power flow in $J/s/m^2$ that would come out of a small hole cut in a metal box at temperature $T$
 	Using $f = \dfrac{c}{\lambda}$ so $df = \dfrac{c}{\lambda^2}d\lambda$ and $f^2df = \dfrac{c^2}{\lambda^2}\dfrac{c}{\lambda^2}df$
 	$dI_{RJ}(\lambda) = \dfrac{2c}{\lambda^4}kTd\lambda$
 		Does not work for black body radiation: predicts that thermal radiation should be much larger than seen and go to infinity at short wavelength
@@ -61,4 +61,16 @@ Einstein's Photoelectric explanation
 		$qV_{stop} = hf - q\Phi_{work}$
 		where $q\Phi_{work}$ is the energy required to remove an electron from the metal surface, called the work function
 		The threshold frequency is then $hf_{thresh} = q\Phi_{work}$
-		
+
+Bragg's law
+	If the plane spacing is $d$, and the incidence angle from the surface is $\theta$, the extra path length for the reflection from the second plane is $2dsin\theta$
+		The reflections from all the planes will be in phase if 
+			$2dsin\theta = n\lambda$
+			
+X-Ray spectrum vs Voltage
+	For a given voltage, there is a minimum X-ray wavelength, which corresponds to a maximum X-ray frequency
+		$qV = \dfrac{hc}{\lambda_{min}} = hf_{max}$
+	Work functions are a few volts, and x-ray tubes always work at many kV, so we neglect the work 
+
+17.7 pm
+
