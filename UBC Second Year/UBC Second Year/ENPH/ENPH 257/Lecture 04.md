@@ -22,4 +22,17 @@ Quantum states enumerated by "$n$" for each dimension
 	Momentum $p = \dfrac{2\pi\hslash}{\lambda}$
 	Kinetic energy $\dfrac{p^2}{2m}$
 	The kinetic energy of a particle is $KE = \dfrac{|\textbf{p}|^2}{2m} = \dfrac{p_x^2 + p_y^2 + p_z^2}{2m} = \dfrac{\pi^2\hslash^2(n_x^2+n_y^2+n_z^2)}{2mL^2}$
-	For the $i$th particle, 
+	For the $i$th particle, $KE_i = \dfrac{|\textbf{p}_i|^2}{2m} = \dfrac{p_{xi}^2 + p_{yi}^2 + p_{zi}^2}{2m} = \dfrac{\pi^2\hslash^2(n_{xi}^2+n_{yi}^2+n_{zi}^2)}{2mL^2}$
+	Internal energy of the gas is all the individual $KE$s added together:
+		$\displaystyle U = \sum_{i = 1}^{N}\dfrac{\pi^2\hslash^2(n_{xi}^2+n_{yi}^2+n_{zi}^2)}{2mL^2}$ 
+		$\displaystyle = \sum_{i = 1}^{N}\sum_{j \in \set{x,y,z}}\dfrac{\pi^2\hslash^2n_{ji}^2}{2mL^2}$
+		$\displaystyle U = \sum_{i = 1}^{3N}\dfrac{\pi^2\hslash^2n_{i}^2}{2mL^2}$
+	So all sets $\set{n_1, \dots, n_i, \dots, n_{3N}}$ for which $\displaystyle\sum_{i = 1}^{3N}\dfrac{\pi^2\hslash^2n_{i}^2}{2mL^2} = U_0$, are microstates whose internal energy is $U_0$
+	How many sets $\set{n_1, \dots, n_i, \dots, n_{3N}}$ there are for which $\displaystyle\sum_{i = 1}^{3N}\dfrac{\pi^2\hslash^2n_{i}^2}{2mL^2} = U$
+		or rewritten, $\displaystyle\dfrac{2mL^2U}{\pi^2\hslash^2} = \sum_{i=1}^{3N}n_i^2$
+		$r \equiv \dfrac{L}{\pi\hslash}\sqrt{2mU}$
+		Then $\displaystyle\sum_{i=1}^{3N}n_i^2 = r^2$
+	If the sum were over two terms, we would have $n_1^2 + n_2^2 = r^2$ which defines a circle  in the $n_1, n_2$ plane
+	Over three terms, we would have $n_1^2 + n_2^2 + n_3^2 = r^2$ which defines a sphere in the $n_1, n_2, n_3$ plane
+	There are $\dfrac{mUL^2}{\pi\hslash^2}$ states that have energy $U$ in a single-atom ideal gas with volume $L^3$
+	
