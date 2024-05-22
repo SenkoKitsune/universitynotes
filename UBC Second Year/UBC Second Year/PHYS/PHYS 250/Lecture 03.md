@@ -58,9 +58,9 @@ Einstein's Photoelectric explanation
 	The stopping potential implied there was a maximum ejected electron kinetic energy:
 		$E_{max} = qV_{stop}$
 	The dependence of the stopping voltage on frequency implied that the maximum electron energy increased with light frequency
-		$qV_{stop} = hf - q\Phi_{work}$
-		where $q\Phi_{work}$ is the energy required to remove an electron from the metal surface, called the work function
-		The threshold frequency is then $hf_{thresh} = q\Phi_{work}$
+		$qV_{stop} = hf - q\phi_{work}$
+		where $q\phi_{work}$ is the energy required to remove an electron from the metal surface, called the work function
+		The threshold frequency is then $hf_{thresh} = q\phi_{work}$
 
 Bragg's law
 	If the plane spacing is $d$, and the incidence angle from the surface is $\theta$, the extra path length for the reflection from the second plane is $2dsin\theta$
@@ -70,7 +70,20 @@ Bragg's law
 X-Ray spectrum vs Voltage
 	For a given voltage, there is a minimum X-ray wavelength, which corresponds to a maximum X-ray frequency
 		$qV = \dfrac{hc}{\lambda_{min}} = hf_{max}$
-	Work functions are a few volts, and x-ray tubes always work at many kV, so we neglect the work 
+		Technically the energy is $q(V+\phi_{work})$
+	Work functions are a few volts, and x-ray tubes always work at many kV, so we neglect the work functions
 
-17.7 pm
+Scattering of EM waves
+	The EM field of light causes charged particles to oscillate at the same frequency as the light. The particles radiate EM energy at the same frequency
+		So reflected or scattered light has the same wavelength as the incident light
+
+
+Photon Momentum-Wavelength Relation
+	$E = pc = \dfrac{hf}{\lambda} \implies p = \dfrac{h}{\lambda}$
+
+Compton Kinematics
+	Incident X-ray $\underline{X} = \left(\dfrac{pc}{c},\vec{p}\right)$, scattered X-ray $\underline{X'} = \left(\dfrac{p'c}{c},\vec{p'}\right)$
+	Initial electron at rest $\underline{e} = \left(mc^2,\vec{0}\right)$ and final electron $\underline{e'}$
+	Compton's Equation:
+		$\lambda' - \lambda = \dfrac{h}{mc}(1-cos\theta)$
 
