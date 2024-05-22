@@ -16,5 +16,30 @@ Rayleigh-Jeans predication
 	The number of allowed frequencies less than $f$ is proportional to $f^3$, so the number near $f$ is proportional to $f^2df$
 		$dI_{RJ}(f) = \dfrac{2f^2}{c^2}kTdf$
 		This is the power flow in $\dfrac{J}{s\cdot m^2}$ that would come out of a small hole cut in a metal box at temperature $T$
-	Using $f = \dfrac{c}{\lambda}$ so $df = \dfrac{c}{\lambda^2}d\lambda$ and $
+	Using $f = \dfrac{c}{\lambda}$ so $df = \dfrac{c}{\lambda^2}d\lambda$ and $f^2df = \dfrac{c^2}{\lambda^2}\dfrac{c}{\lambda^2}df$
 	$dI_{RJ}(\lambda) = \dfrac{2c}{\lambda^4}kTd\lambda$
+		Does not work for black body radiation: predicts that thermal radiation should be much larger than seen and go to infinity at short wavelength
+
+Wein Spectrum:
+	$dI_w(f) = Af^3e^{-\frac{Bf}{T}}df$
+	The radiated power between $f$ and $f+df$ is $dI_w(f)$
+	This can also be written using wavelength
+		$dI_w(f) = A\dfrac{c^4}{\lambda^5}e^{-\frac{Bc}{\lambda T}}d\lambda$
+Planck Spectrum
+	$dI_p(f) = \dfrac{Af^3}{e^{\frac{Bf}{T}}- 1}df = \dfrac{Af^3}{e^{\frac{hf}{k_BT}}- 1}df$	
+	At low frequency, $e^{\frac{Bf}{T}}- 1 \to \dfrac{Bf}{T}$ so we get Rayleigh-Jeans\
+	At high frequency, we get Wein
+
+In statistical mechanics, continuous variables have average energy $\dfrac{kT}{2}$ but discrete variables are controlled by the Boltzmann factor $e^{-\dfrac{\Delta E}{kT}}$
+
+
+Planck's constant:
+	$h = 6.626\times 10^{-34}$ Joule-seconds
+	$h = 4.136 \times 10^{-15}$ eV-s
+	Using wavelength instead of frequency:
+		$hc 1.24 \times 10^{-6}$ eV-m $= 1.240$ eV-$\mu$m $= 1240$ eV-nm
+
+Planck's model says EM waves can only have amplitudes that make their energy $E = nhf$
+Energy depends not only on wave amplitude, but also on dimensions of the box
+	But that means the wave knows the dimensions of the box
+
