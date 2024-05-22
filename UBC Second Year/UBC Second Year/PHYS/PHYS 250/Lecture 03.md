@@ -43,3 +43,14 @@ Planck's model says EM waves can only have amplitudes that make their energy $E 
 Energy depends not only on wave amplitude, but also on dimensions of the box
 	But that means the wave knows the dimensions of the box
 
+Photoelectric effect
+	Shinning light on a metal surface (photocathode) ejects electrons
+		In a vacuum they can travel to the collector (anode) giving a current
+	Current emitted when light hit a metal was proportional to the light intensity
+	Applying a positive voltage to the collector electrode increased the current to a plateau value
+	A negative voltage decreased the current
+	If the voltage was far enough negative, the current stopped completely (the stopping point)
+	Increasing light frequency causes the stopping potential to move away from zero (become more negative)
+	Decreasing light frequency causes the stopping potential to move closer to zero
+	If the frequency is too low, there is no current at all for any collector voltage (threshold frequency)
+
