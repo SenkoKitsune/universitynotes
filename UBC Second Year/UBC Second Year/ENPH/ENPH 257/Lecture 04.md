@@ -35,4 +35,13 @@ Quantum states enumerated by "$n$" for each dimension
 	If the sum were over two terms, we would have $n_1^2 + n_2^2 = r^2$ which defines a circle  in the $n_1, n_2$ plane
 	Over three terms, we would have $n_1^2 + n_2^2 + n_3^2 = r^2$ which defines a sphere in the $n_1, n_2, n_3$ plane
 	There are $\dfrac{mUL^2}{\pi\hslash^2}$ states that have energy $U$ in a single-atom ideal gas with volume $L^3$
-	
+
+We now perform the math with the sphere now on a hyper-sphere with 3$N$ dimensions
+	The surface area of a hyper-sphere with 3$N$ dimensions is $\dfrac{2\pi^{\frac{3N}{2}}}{\left(\dfrac{3N}{2} - 1\right)!}r^{3N - 1}$
+	We divide by a factor of $2^{3N}$ to restrict ourselves to all-positive $n$
+	Then we divide by $1^{3N-1} = 1$ to get the number of states, giving $\dfrac{2\pi^{\frac{3N}{2}}}{\left(\dfrac{3N}{2} - 1\right)!}r^{3N - 1}$ states
+	And plugging in $r \equiv \dfrac{L}{\pi\hslash}\sqrt{2mU}$ we have
+	$\dfrac{\pi^{\frac{3N}{2}}}{\left(\dfrac{3N}{2}-1\right)!}\left[\dfrac{L}{pi\hslash}\sqrt{2mU}\right]^{3N-1}$
+	But we have overcounted by $N!$ (the number of ways to exchange $N$ atoms), since Ideal Gas molecules are indistinguishable, so:
+	There are $\dfrac{\pi^{\frac{3N}{2}}}{N!\left(\dfrac{3N}{2}-1\right)!}\left[\dfrac{L}{pi\hslash}\sqrt{2mU}\right]^{3N-1}$ microstates of an ideal gas with $N$ atoms in volume $L^3$ and internal energy $U$
+
