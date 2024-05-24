@@ -21,3 +21,4 @@ Two ways to expand an idea gas without raising $T$, and therefore not increasing
 		$\Delta U = \Delta Q = \Delta W = 0$
 	$S$ is a state variable, so $\Delta S$ must be the same for both processes
 		$S = Nk\left[\ln\left(\dfrac{V}{N}\left(\dfrac{4\pi mU}{3Nh^2}\right)^\frac{3}{2}\right)+\dfrac{5}{2}\right] = Nk_b\ln(V) + f(U,N) \longrightarrow \Delta S = Nk_b\ln\left(\dfrac{V_2}{V_1}\right)$
+	
