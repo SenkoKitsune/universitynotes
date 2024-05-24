@@ -10,5 +10,14 @@ Multiplicity: thermodynamics is all about probability
 
 $\Omega_{U,V,N} = \dfrac{\pi^{\frac{3N}{2}}}{N!\left(\dfrac{3N}{2}-1\right)!}\left[\dfrac{L}{pi\hslash}\sqrt{2mU}\right]^{3N-1}$ 
 Taking the log of the large N limit,
-	$S = Nk\left[\ln\left(\dfrac{v}{N}\left(\dfrac{4\pi mU}{3Nh^2}\right)^\frac{3}{2}\right)+\dfrac{5}{2}\right]$
-	
+	$S = Nk\left[\ln\left(\dfrac{V}{N}\left(\dfrac{4\pi mU}{3Nh^2}\right)^\frac{3}{2}\right)+\dfrac{5}{2}\right]$
+
+Two ways to expand an idea gas without raising $T$, and therefore not increasing $U$
+	1) Doing work against a piston in an isothermal process
+		$\Delta U = 0 \to \delta Q = -\Delta W = -Nk_bT\ln\left(\dfrac{V_2}{V_1}\right)$
+			as derived from work calculation
+			$\Delta Q = T\Delta S$
+	1) Letting it expand freely
+		$\Delta U = \Delta Q = \Delta W = 0$
+	$S$ is a state variable, so $\Delta S$ must be the same for both processes
+		$S = Nk\left[\ln\left(\dfrac{V}{N}\left(\dfrac{4\pi mU}{3Nh^2}\right)^\frac{3}{2}\right)+\dfrac{5}{2}\right] = Nk_b\ln(V) + f(U,N) \longrightarrow \Delta S = Nk_b\ln\left(\dfrac{V_2}{V_1}\right)$
