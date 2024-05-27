@@ -35,3 +35,11 @@ $F_{magnetic} = qvB = F_{electric} = qE \rightarrow v = \dfrac{E}{B}$
 Charge to mass ratio of the electron:
 	Energy $U = qV = \dfrac{1}{2}mv^2=\dfrac{1}{2}m\left(\dfrac{E}{B}\right)^2 \to \dfrac{q}{m}=\dfrac{1}{2V}\left(\dfrac{E}{B}\right)^2$
 
+$\hslash = \dfrac{h}{2\pi}$
+	angular momentums can only be integer multiples of Planck's constant $h$ but divided by $2\pi$
+	$L = n\hslash$ and $Q = Zq$ into $E = -\dfrac{m}{2}\left[\dfrac{qQ}{4\pi\varepsilon_0}\right]\dfrac{1}{L^2}$ to get
+		$E = -\dfrac{m}{2}\left[\dfrac{q^2}{4\pi\varepsilon_0\hslash}\right]^2\dfrac{Z^2}{n^2}$
+Energy-radius relation
+	$E = \dfrac{1}{2}\dfrac{qZq}{4\pi\varepsilon_0}\dfrac{1}{2}$
+		$r = \dfrac{n^2}{Z}\dfrac{\hslash^2}{m}\dfrac{4\pi\varepsilon}{q^2}$
+		The constant $\dfrac{\hslash^2}{m}\dfrac{4\pi\varepsilon}{q^2} = 52.97pm$
