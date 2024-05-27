@@ -57,3 +57,9 @@ Reduced mass
 Moseley's Law for $K\alpha$ X ray emission
 	$E = 10.4 \text{ eV}\cdot(Z-1)^2$
 
+de Broglie Waves
+	For matter and photons: $\lambda = \dfrac{h}{p}$
+		A particle in orbit with radius $r$ and angular momentum $L = rp$ would have a wavelength of $\lambda = \dfrac{hr}{L}$
+	If we require integer $n$ wavelengths $\lambda$ around the orbit circumference of $2\pi r$
+	$n\lambda = n\dfrac{hr}{L} = 2\pi \to L = n\dfrac{h}{2\pi} = n\hslash$
+
