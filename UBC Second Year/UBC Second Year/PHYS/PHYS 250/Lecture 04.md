@@ -54,3 +54,6 @@ Reduced mass
 	If the calculation is done right, the electron mass gets replaced by the reduced mass $\mu=\dfrac{m_e\cdot m_p}{m_e + m_p}$
 		Since $m_p \approx 2000 m_e$, this is a very small change from the electron mass in $E_n = -\dfrac{m}{2}\left[\dfrac{q^2}{4\pi\varepsilon_0\hslash}\right]^2\dfrac{Z^2}{n^2}$
 
+Moseley's Law for $K\alpha$ X ray emission
+	$E = 10.4 \text{ eV}\cdot(Z-1)^2$
+
