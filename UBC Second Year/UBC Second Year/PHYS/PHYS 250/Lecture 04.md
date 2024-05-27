@@ -16,3 +16,22 @@ Absorption bands
 		Molecules can rotate
 			Gives absorption lines so close together they look continuous and they are called absorption bands
 
+Formula for hydrogen lines
+	$\lambda = \dfrac{B}{4}\dfrac{n^2m^2}{n^2-m^2}$ with $B = 364.5$ and $n > m$
+$m = 1$: Lyman series (UV)
+$m = 2$: Balmer series (Visible)
+m = 3: Paschen Series (IR)
+
+Rydberg Formula (alkali)
+	$\dfrac{1}{\lambda} = RZ^2\left(\dfrac{1}{n_1^2}-\dfrac{1}{n_2^2}\right)$ with $n_2 > n_1$
+	$R = 1.097\times10^7 m^{-1} = \dfrac{1}{91.13 nm}$
+	$Z$ = atomic number (nuclear charge)
+	This was verified for $Li^{2+}, Be^{3+}, ...$
+	Using Planck's formula:
+		$E = \dfrac{hc}{\lambda} = hcRZ^2\left(\dfrac{1}{n_1^2}-\dfrac{1}{n_2^2}\right)$
+		$13.598 eV\cdot Z^2\left(\dfrac{1}{n_1^2}-\dfrac{1}{n_2^2}\right)$
+
+$F_{magnetic} = qvB = F_{electric} = qE \rightarrow v = \dfrac{E}{B}$
+Charge to mass ratio of the electron:
+	Energy $U = qV = \dfrac{1}{2}mv^2=\dfrac{1}{2}m\left(\dfrac{E}{B}\right)^2 \to \dfrac{q}{m}=\dfrac{1}{2V}\left(\dfrac{E}{B}\right)^2$
+
