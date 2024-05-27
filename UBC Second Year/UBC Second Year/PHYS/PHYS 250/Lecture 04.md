@@ -43,3 +43,14 @@ Energy-radius relation
 	$E = \dfrac{1}{2}\dfrac{qZq}{4\pi\varepsilon_0}\dfrac{1}{2}$
 		$r = \dfrac{n^2}{Z}\dfrac{\hslash^2}{m}\dfrac{4\pi\varepsilon}{q^2}$
 		The constant $\dfrac{\hslash^2}{m}\dfrac{4\pi\varepsilon}{q^2} = 52.97pm$
+Bohr orbit velocity
+	$L = r\cdot mv$
+	Coulomb orbit relation $\dfrac{1}{r} = \dfrac{Zq^2}{4\pi\varepsilon_0}\dfrac{m}{L^2}$
+		$v = \dfrac{Z}{n}\dfrac{q^2}{4\pi\varepsilon_0\hslash}$
+		$\dfrac{q^2}{4\pi\varepsilon_0\hslash} = 7.293\times10^{-3}$
+
+Reduced mass
+	Electrons and protons orbit the centre of mass of the system
+	If the calculation is done right, the electron mass gets replaced by the reduced mass $\mu=\dfrac{m_e\cdot m_p}{m_e + m_p}$
+		Since $m_p \approx 2000 m_e$, this is a very small change from the electron mass in $E_n = -\dfrac{m}{2}\left[\dfrac{q^2}{4\pi\varepsilon_0\hslash}\right]^2\dfrac{Z^2}{n^2}$
+
