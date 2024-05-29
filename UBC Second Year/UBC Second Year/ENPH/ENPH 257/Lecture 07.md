@@ -18,4 +18,13 @@ $dU = TdS = PdV$ and $dU = \delta Q + \delta Q$
 	is $\delta Q = TdS$ and $\delta W = -PdV$
 	$\delta Q = dU - \delta W$ and $dU + PdV = TdS$
 	$\delta Q = dU - \delta W$ = $dU + PdV = TdS$
-		if $\delta W = 
+		if $\delta W = -PdV$
+If $\delta W = -PdV$, then $\delta Q = TdS$
+	$\delta W = -PdV$ is true for quasistatic processes, therefore $\delta Q = TdS$ for quasistatic processes.
+
+Quasistatic: the system is in internal equilibrium (equilibrium with itself)
+Reversible: The entropy of the system + environment does not change
+Adiabatic: no heat flow between system and environment
+Isentropic: The entropy of the system does not change
+Isothermal: The temperature of the system does not change
+
