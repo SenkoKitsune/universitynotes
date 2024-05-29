@@ -6,4 +6,5 @@ Pauli exclusion principle
 		But if they have the same $\vec{x}$ dependence and the same $s$-values, then flipping the sign does nothing, but it's supposed to flip the sign. 
 			That means $\Psi = 0$
 
-For most elements, the binding energy is about 9MeV per proton or neutron
+For most elements, the binding energy is about 8MeV per proton or neutron
+
