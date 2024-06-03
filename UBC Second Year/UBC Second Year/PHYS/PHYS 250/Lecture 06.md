@@ -51,10 +51,10 @@ Heisenberg Uncertainty Principle
 	Gaussian wave functions are minimum uncertainty and give you the lower limit
 	The wave packet spreads in $x$-space, but it stays the same width in $k$-space, so we only get the minimum product at $t=0$
 
-We include forces by adding a potential energy function ,$V(x)$, also times the wavefuntion:
+We include forces by adding a potential energy function ,$V(x)$, also times the wave-funtion:
 	$i\hslash\dfrac{\partial}{\partial t}y(x,t) = \dfrac{-\hslash}{2m}\dfrac{\partial^2}{dx^2}y(x,t) + V(x)\cdot y(x,t)$
 
-The potential is (minus) the integral of forcec over distance
+The potential is (minus) the integral of force over distance
 	A constant force gives a linear potential:
 		$F \to V(x) = -F \cdot x$
 	The solutions for that to be the Airy function
