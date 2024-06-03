@@ -26,3 +26,22 @@ Momentum operator
 We can write Schrödinger as $i\hslash \dfrac{\partial \psi}{\partial t} = \dfrac{-\hslash}{2m}\dfrac{\partial^2 \psi}{\partial x^2} = \dfrac{p_{op}^2}{2m}\psi$
 
 $\psi^*\psi$ is the probability density if $\displaystyle \int_{-\infty}^{\infty}\psi^*\psi\cdot dx = 1$
+
+Fourier Analysis
+	Decomposing a data set or function into a sum or intergral of sinusoidal function
+	For $N$ discrete samples $x_j$, the transform $x_k$ is
+		$\displaystyle X_k = \sum_{j = 0}^{N - 1}x_j\exp\left[-2\pi i \dfrac{jk}{N}\right]$, $j,k$ are indices, $i = \sqrt{1}$
+		Even if the $x_j$ are real, the transform $X_j$ is complex
+	The inverse transform is
+		$\displaystyle x_{j} = \sum{j = 0}^{N - 1}X_k\exp\left[2\pi i \dfrac{jk}{N}\right]$
+
+
+The continuous equivalent, in the signal-processing convention:
+	$\displaystyle S(f) = \int_{-\infty}^{\infty}s(t)\exp[-2\pi i ft]$
+	$\displaystyle s(f) = \int_{-\infty}^{\infty}S(t)\exp[2\pi i ft]$
+
+For quantum mechanics:
+	$\displaystyle y(x) = \int_{-\infty}^{\infty}dk\cdot a(k) \exp(ikx)$
+	$\displaystyle a(k') = \frac{1}{2\pi}\int_{-\infty}^{\infty}dx\cdot y(x)\exp(-ik'x)$
+	
+	
