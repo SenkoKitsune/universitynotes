@@ -48,4 +48,20 @@ Heisenberg Uncertainty Principle
 	Consider $a(k) = \dfrac{1}{\sqrt{2\pi}\sigma_k}\exp\left[\dfrac{-k^2}{2\sigma^2_k}\right]$
 		This is a Gaussian in $k$-space, centred on $k=0$ width $\sigma_k = \dfrac{1}{\sigma_x}$
 		$\sigma_x, \sigma_p \geq \dfrac{\hslash}{2}$
-	Gaussian wave functions are minimum uncerta
+	Gaussian wave functions are minimum uncertainty and give you the lower limit
+	The wave packet spreads in $x$-space, but it stays the same width in $k$-space, so we only get the minimum product at $t=0$
+
+We include forces by adding a potential energy function ,$V(x)$, also times the wavefuntion:
+	$i\hslash\dfrac{\partial}{\partial t}y(x,t) = \dfrac{-\hslash}{2m}\dfrac{\partial^2}{dx^2}y(x,t) + V(x)\cdot y(x,t)$
+
+The potential is (minus) the integral of forcec over distance
+	A constant force gives a linear potential:
+		$F \to V(x) = -F \cdot x$
+	The solutions for that to be the Airy function
+	A restoring force proportional to distance gives a quadratic:
+		$F(x) = -kx \to V(x) = \dfrac{1}{2}kx^2$
+
+The step potential
+	Simplest cases: potential is zero at $x < 0$ and steps to a different value for $x > 0$, then maybe steps back
+	Classically if a particle comes in from the left with energy E, and $V > E$, the particle will bounce back
+	If $V < E$, the particle will continue to positive $x$, but at reduced velocity
