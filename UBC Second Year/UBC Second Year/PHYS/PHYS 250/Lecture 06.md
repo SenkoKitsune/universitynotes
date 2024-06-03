@@ -44,4 +44,8 @@ For quantum mechanics:
 	$\displaystyle y(x) = \int_{-\infty}^{\infty}dk\cdot a(k) \exp(ikx)$
 	$\displaystyle a(k') = \frac{1}{2\pi}\int_{-\infty}^{\infty}dx\cdot y(x)\exp(-ik'x)$
 	
-	
+Heisenberg Uncertainty Principle
+	Consider $a(k) = \dfrac{1}{\sqrt{2\pi}\sigma_k}\exp\left[\dfrac{-k^2}{2\sigma^2_k}\right]$
+		This is a Gaussian in $k$-space, centred on $k=0$ width $\sigma_k = \dfrac{1}{\sigma_x}$
+		$\sigma_x, \sigma_p \geq \dfrac{\hslash}{2}$
+	Gaussian wave functions are minimum uncerta
