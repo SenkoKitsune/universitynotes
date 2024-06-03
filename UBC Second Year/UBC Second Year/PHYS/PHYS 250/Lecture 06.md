@@ -24,3 +24,5 @@ Momentum operator
 	$p_{op} = \dfrac{\hslash}{i}\dfrac{\partial}{\partial x}$
 
 We can write Schrödinger as $i\hslash \dfrac{\partial \psi}{\partial t} = \dfrac{-\hslash}{2m}\dfrac{\partial^2 \psi}{\partial x^2} = \dfrac{p_{op}^2}{2m}\psi$
+
+$\psi^*\psi$ is the probability density if $\displaystyle \int_{-\infty}^{\infty}\psi^*\psi\cdot dx = 1$
