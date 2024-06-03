@@ -9,3 +9,18 @@ Wave equation: $\dfrac{\partial^2 y}{\partial x^2} = \dfrac{1}{v^2}\dfrac{\parti
 				To satisfy the wave equation we still require $v = \dfrac{\lambda}{T} = \dfrac{2\pi/k}{2\pi / \omega} = \dfrac{\omega}{k}$
 $p = \hslash k$
 $E = \hslash\omega$
+
+Schrödinger's Equation for a free particle in 1 dimension
+	$i\hslash \dfrac{\partial y}{\partial t} = \dfrac{-\hslash^2}{2m}\dfrac{\partial y^2}{\partial x^2}$ gives $E \cdot y(x,t) = E \cdot y(x,t)$
+	It's convenient to use $\psi(x,t)$
+		$i\hslash \dfrac{\partial \psi}{\partial t} = \dfrac{-\hslash^2}{2m}\dfrac{\partial^2 \psi}{\partial x^2}$
+	Alternative solution form
+		Start with $\psi(x,t) = \exp[i\cdot(kx - \omega t)]$
+		Using $k = \dfrac{p}{\hslash}$ and $\omega = \dfrac{E}{\hslash}$
+			$\psi(x,t) = \exp\left[i\cdot\dfrac{px-Et}{\hslash}\right]$
+	The equation is linear
+
+Momentum operator
+	$p_{op} = \dfrac{\hslash}{i}\dfrac{\partial}{\partial x}$
+
+We can write Schrödinger as $i\hslash \dfrac{\partial \psi}{\partial t} = \dfrac{-\hslash}{2m}\dfrac{\partial^2 \psi}{\partial x^2} = \dfrac{p_{op}^2}{2m}\psi$
