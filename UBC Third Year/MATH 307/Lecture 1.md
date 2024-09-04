@@ -9,5 +9,6 @@ In Matrix form:
 	$\underline{X} = \begin{bmatrix} x_1 \\ x_2 \\  \vdots \\ x_n \end{bmatrix}$ is the vector of variables
 	 and $\underline{b} = \begin{bmatrix} b_1 \\ b_2 \\  \vdots \\ b_n \end{bmatrix}$ is the coefficient vector
 The augmented matrix of the system $A\underline{x} = \underline{b}$ is 
-	$\left[A | b \right] = \begin{bmatrix} a_{11} && \dots && a_{1n} && | && b_1 \\ \vdots && && \vdots \\ a_{m1} \dots a_{mn$
+	$\left[A | b \right] = \begin{bmatrix} a_{11} && \dots && a_{1n} && | && b_1 \\ \vdots && && \vdots && | && \vdots \\ a_{m1} && \dots && a_{mn} && | && \vdots \end{bmatrix}$
+	
 	
