@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UBC Third Year/MATH 307/Lecture 1.md",
+                "file": "Scrapad.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UBC Third Year/MATH 307/Lecture 1.md",
+                "file": "Scrapad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UBC Third Year/MATH 307/Lecture 1.md",
+                "file": "Scrapad.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UBC Third Year/MATH 307/Lecture 1.md"
+                "file": "Scrapad.md"
               }
             }
           },
@@ -190,8 +190,8 @@
   },
   "active": "2a61d2037189fc31",
   "lastOpenFiles": [
-    "Notepad.md",
     "UBC Third Year/MATH 307/Lecture 1.md",
+    "Notepad.md",
     "UBC Third Year/MATH 307",
     "UBC Third Year/APSC 278",
     "UBC Third Year",
